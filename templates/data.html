@@ -1,0 +1,328 @@
+{% extends 'base.html' %}
+{% include 'header.html' %}
+
+{% block title %}Data Entry {% endblock %}
+
+
+{% block body %}
+<header class="top-header">
+        <nav class="navbar header-nav navbar-expand-lg">
+            <div class="container-fluid">
+                <a class="navbar-brand" href={{ url_for('data2') }}><img src="static/images/logo.png" alt="image"></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-wd" aria-controls="navbar-wd" aria-expanded="false" aria-label="Toggle navigation">
+
+                </button>
+                <div class="collapse navbar-collapse justify-content-end" id="navbar-wd">
+                    <ol class="navbar-nav">
+                        <li><h1>Field Reports    </h1><li>
+                    </ol>
+                </div>
+                <div>
+
+                    <ol>
+                        <li><h2>{{g.user.username}}</h2> </li>
+                        <li><a href="{{ url_for('login') }}">Logout</a> </li>
+                    </ol>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+<div class="container">
+        <div class="row">
+            <div class="col md-12">
+                <div class="jumbotron p-3">
+                    <h2>F&M System<b> Field Reports </b> <button type="button" class="btn btn-success float-right"
+                     data-toggle="modal" data-target="#mymodal">Add New Report</button></h2>
+
+                {% with messages = get_flashed_messages() %}
+                {% if messages %}
+                {% for message in messages %}
+                    <div class="alert alert-success alert-dismissable" role="alert">
+                        <button type="button" class="close" data-dismiss="alert" aria-label="close">
+                            <span aria-hidden="true">x</span>
+                        </button>
+                        {{message}}
+                    </div>
+                {% endfor %}
+                {% endif %}
+                {% endwith %}
+
+                    <table class="table table-hover table-dark " id="data">
+                    <thead>
+                        <tr>
+                            <th>Report No.</th>
+                            <th>Species Name</th>
+                            <th>Date</th>
+                            <th>Location</th>
+                            <th>Site</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                          {% for row in data %}
+
+                        <tr>
+                            <td>{{row.report_id}}</td>
+                            <td>{{row.species_name}}</td>
+                            <td>{{row.date_report}}</td>
+                            <td>{{row.location}}</td>
+                            <td>{{row.site}}</td>
+
+                            <td>
+                                <a href="/update/{{ row.report_id}}" class="btn btn-info btn-xs" data-toggle="modal" data-target="#modalview{{ row.report_id}}">View</a>
+                                <a href="/update/{{ row.report_id}}" class="btn btn-warning btn-xs" data-toggle="modal" data-target="#modaledit{{ row.report_id}}">Edit</a>
+                                <a href="/delete/{{row.report_id}}" class="btn btn-danger btn-xs" onclick="return confirm('Are You Sure to Delete?')">Delete</a>
+                            </td>
+
+                        </tr>
+                                <!-- Modal Edit Employee-->
+                                <div id="modaledit{{ row.report_id }}" class="modal fade" role="dialog">
+                                   <div class="modal-dialog">
+                                      <div class="modal-content">
+                                         <div class="modal-header">
+                                            <h4 class="modal-title">Update Information</h4>
+                                         </div>
+                                         <div class="modal-body">
+                                            <form action="{{ url_for('update')}}" method="POST">
+                                               <div class="form-group">
+                                                   <label>Species Name:</label>
+                                                   <input type="hidden"  name="report_id" value="{{ row.report_id }}">
+                                                   <select class="form-control" name="species_name" id="species_name"  value="{{ row.species_name }}">
+                                                       <option value="{{ row.species_name }}">{{ row.species_name }}</option>
+                                                       <option value="Aceros waldeni (Visayan Writhed Hornbill)">Visayan Writhed Hornbill</option>
+                                                       <option value="Sus cebifrons (Visayan Warty Pig)">Visayan Warty Pig</option>
+                                                       <option value="Rusa alfredi (Visayan Spotted Deer)">Visayan Spotted Deer</option>
+                                                       <option value="Raflesia speciosa (Panay Rafflesia)">Rafflesia</option>
+                                                   </select>
+                                               </div>
+                                               <div class="form-group">
+                                                  <label>Date</label>
+                                                  <input type="date" class="form-control" name="date_report" value="{{ row.date_report }}">
+                                               </div>
+                                               <div class="form-group">
+                                                  <label>Location (Municipality, Province):</label>
+                                                  <input type="text" class="form-control" name="location" value="{{ row.location }}">
+                                               </div>
+                                               <div class="form-group">
+                                                  <label>Site (Barangay, Sitio):</label>
+                                                  <input type="text" class="form-control" name="site" value="{{ row.site }}">
+                                               </div>
+                                               <div class="form-group">
+                                                  <label>Number of Observations:</label>
+                                                  <input type="number" class="form-control" name="no_observation" value="{{ row.no_observation }}">
+                                               </div>
+                                               <div class="form-group">
+                                                  <label>Mode of Observation:</label>
+                                                  <input type="text" class="form-control" name="mode_observation" value="{{ row.mode_observation }}">
+                                               </div>
+                                                <div class="form-group">
+                                                  <label>Threats:</label>
+                                                  <select class="form-control" name="threats" id="threats"  value="{{ row.threats }}">
+                                                       <option value="Loss of Habitat">Loss of Habitat</option>
+                                                       <option value="Hunting">Hunting</option>
+                                                   </select>
+                                               </div>
+                                               <div class="form-group">
+                                                  <label>Remarks:</label>
+                                                  <input type="text" class="form-control" name="remarks" value="{{ row.remarks }}">
+                                               </div>
+                                               <div class="form-group">
+                                                  <label>Name of Observers:</label>
+                                                  <input type="text" class="form-control" name="name_observers" value="{{ row.name_observers }}">
+                                               </div>
+                                                <div class="form-group">
+                                                    <label>Coordinates Latitude:</label>
+                                                  <input type="text" class="form-control" name="coordinates_lat" value="{{ row.coordinates_lat }}">
+                                                </div>
+                                                <div class="form-group">
+                                                    <label>Coordinates Longitude:</label>
+                                                  <input type="text" class="form-control" name="coordinates_lng" value="{{ row.coordinates_lng }}">
+                                               </div>
+
+                                               <div class="form-group">
+                                                  <button class="btn btn-primary" type="submit">Update Report</button>
+                                               </div>
+
+                                            </form>
+                                         </div>
+                                         <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                         </div>
+                                      </div>
+                                   </div>
+                                </div>
+                                <!-- Modal View Employee-->
+                                <div id="modalview{{ row.report_id }}" class="modal fade" role="dialog">
+                                   <div class="modal-dialog">
+                                      <div class="modal-content">
+                                         <div class="modal-header">
+                                            <h4 class="modal-title">Report Content</h4>
+                                         </div>
+                                         <div class="modal-body">
+                                            <form action="{{ url_for('update')}}" method="POST">
+                                               <div class="form-group">
+                                                   <label>Species Name: </label><br>
+                                                   <label>{{ row.report_id }}</label><br>
+                                                   <label>Species Name: </label><br>
+                                                   <label>{{ row.species_name }}</label>
+                                               </div>
+                                               <div class="form-group">
+                                                  <label>Date: </label><br>
+                                                  <label>{{ row.date_report }}</label>
+                                               </div>
+                                               <div class="form-group">
+                                                  <label>Location (Municipality, Province): </label><br>
+                                                   <label>{{ row.location }}</label>
+                                               </div>
+                                               <div class="form-group">
+                                                  <label>Site (Barangay, Sitio): </label><br>
+                                                   <label>{{ row.site }}</label>
+                                               </div>
+                                               <div class="form-group">
+                                                  <label>Number of Observations: </label><br>
+                                                   <label>{{ row.no_observation }}</label>
+                                               </div>
+                                               <div class="form-group">
+                                                  <label>Mode of Observation:</label><br>
+                                                   <label>{{ row.mode_observation }}</label>
+
+                                               </div>
+                                                 <div class="form-group">
+                                                  <label>Threats:</label><br>
+                                                   <label>{{ row.threats }}</label>
+                                               </div>
+                                               <div class="form-group">
+                                                  <label>Remarks:</label><br>
+                                                   <label>{{ row.remarks }}</label>
+                                               </div>
+                                               <div class="form-group">
+                                                  <label>Name of Observers: </label><br>
+                                                   <label>{{ row.name_observers }}</label>
+                                               </div>
+                                                <div class="form-group">
+                                                    <label>Coordinates Latitude: </label><br>
+                                                    <label>{{ row.coordinates_lat }}</label>
+
+                                                <div class="form-group">
+                                                    <label>Coordinates Longitude: </label><br>
+                                                    <label>{{ row.coordinates_lng }}</label>
+                                               </div>
+                                            </div>
+                                            </form>
+                                         </div>
+                                         <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                         </div>
+                                      </div>
+                                   </div>
+                                </div>
+
+                        {% endfor %}
+
+                    </tbody>
+                    </table>
+                </div>
+
+
+                                <!-- Modal Add Employee-->
+                                <div id="mymodal" class="modal fade" role="dialog">
+                                     <div class="modal-dialog">
+                                        <div class="modal-content">
+                                             <div class="modal-header">
+                                                    <h4 class="modal-title">Add Entry Report</h4>
+                                             </div>
+                                                <div class="modal-body">
+                                                    <form action="{{ url_for('insert')}}" method="POST">
+                                                        <div class="form-group">
+                                                            <label> Species Name:</label>
+                                                            <select class="form-control" name="species_name" id="species_name" required="1">
+                                                                <option value="Aceros waldeni (Visayan Writhed Hornbill)">Visayan Writhed Hornbill</option>
+                                                                <option value="Sus cebifrons (Visayan Warty Pig)">Visayan Warty Pig</option>
+                                                                 <option value="Rusa alfredi (Visayan Spotted Deer)">Visayan Spotted Deer</option>
+                                                                 <option value="Raflesia speciosa (Panay Rafflesia)">Rafflesia</option>
+                                                                </select>
+                                                        </div>
+
+                                                        <div class="form-group">
+                                                            <label>Date:</label>
+                                                            <input type="date" class="form-control" name="date_report" required="1">
+
+                                                         </div>
+
+                                                        <div class="form-group">
+                                                            <label>Location (Municipality, Province):</label>
+                                                            <input type="text" class="form-control" name="location" required="1">
+                                                         </div>
+
+                                                        <div class="form-group">
+                                                            <label>Site (Barangay or Sitio):</label>
+                                                            <input type="text" class="form-control" name="site" required="1">
+                                                         </div>
+
+                                                        <div class="form-group">
+                                                            <label>Number of Observations:</label>
+                                                            <input type="number" class="form-control" name="no_observation" required="1">
+                                                         </div>
+
+                                                        <div class="form-group">
+                                                            <label>Mode of Observation:</label>
+                                                            <input type="text" class="form-control" name="mode_observation" required="1">
+                                                         </div>
+
+                                                        <div class="form-group">
+                                                            <label>Threats:</label>
+                                                           <select class="form-control" name="threats" id="threats" required="1">
+                                                                <option value="Loss of Habitat">Loss of Habitat</option>
+                                                                <option value="Hunting">Hunting</option>
+                                                                </select>
+                                                         </div>
+
+                                                        <div class="form-group">
+                                                            <label>Remarks :</label>
+                                                            <input type="text" class="form-control" name="remarks" required="1">
+                                                         </div>
+
+                                                        <div class="form-group">
+                                                            <label>Name of Observers:</label>
+                                                            <input type="text" class="form-control" name="name_observers" required="1">
+                                                         </div>
+
+                                                        <div class="form-group">
+                                                            <label>Coordinates Latitude:</label>
+                                                            <input type="text" class="form-control" name="coordinates_lat" required="1">
+                                                         </div>
+                                                        <div class="form-group">
+                                                            <label>Coordinates Longitude:</label>
+                                                            <input type="text" class="form-control" name="coordinates_lng" required="1">
+                                                         </div>
+                                                        <div class="form-group">
+                                                            <button class="btn btn-primary" type="submit">Submit Report</button>
+                                                        </div>
+                                                    </form>
+                                                </div>
+                                                <div class="modal-footer">
+                                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                                 </div>
+                                              </div>
+                                           </div>
+                                </div>
+            </div>
+        </div>
+</div>
+{% endblock %}
+{% block scripts %}
+  <script>
+    $(document).ready(function () {
+      $('#data').DataTable({
+        columns: [
+            null,
+            null,
+            null,
+            null,
+            null,
+        {orderable: false, searchable: false}]
+      });
+    });
+  </script>
+{% endblock %}

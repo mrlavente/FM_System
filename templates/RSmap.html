@@ -1,0 +1,2007 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_14702c6846794a0daf7b538e1c17f2c6 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_14702c6846794a0daf7b538e1c17f2c6" ></div>
+        
+</body>
+<script>    
+    
+            var map_14702c6846794a0daf7b538e1c17f2c6 = L.map(
+                "map_14702c6846794a0daf7b538e1c17f2c6",
+                {
+                    center: [11.102947, 122.516279],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 9,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_3717999bc91d4417816c152a0fe83889 = L.tileLayer(
+                "https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg",
+                {"attribution": "Map tiles by \u003ca href=\"http://stamen.com\"\u003eStamen Design\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by/3.0\"\u003eCC BY 3.0\u003c/a\u003e. Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by-sa/3.0\"\u003eCC BY SA\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+            var marker_d800fa27e552432dbf7cdee92356c3c1 = L.marker(
+                [10.78731, 122.104682],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_80c7d1ee9222479eaf40a002b83bb9d4 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_74e87b03d8ab44b1b12853358685f0cd = $(`<div id="html_74e87b03d8ab44b1b12853358685f0cd" style="width: 100.0%; height: 100.0%;">Date:<br>2016-01-04<br>Sightings:<br>15</div>`)[0];
+            popup_80c7d1ee9222479eaf40a002b83bb9d4.setContent(html_74e87b03d8ab44b1b12853358685f0cd);
+        
+
+        marker_d800fa27e552432dbf7cdee92356c3c1.bindPopup(popup_80c7d1ee9222479eaf40a002b83bb9d4)
+        ;
+
+        
+    
+    
+            marker_d800fa27e552432dbf7cdee92356c3c1.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_e2c886a490f74cd59537e41397163165 = L.marker(
+                [10.803071, 122.143549],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_3d3a68e394dc4202ac54917d1fdf93c0 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3f938136a5d643b68f1eb3480fd1776f = $(`<div id="html_3f938136a5d643b68f1eb3480fd1776f" style="width: 100.0%; height: 100.0%;">Date:<br>2016-02-01<br>Sightings:<br>12</div>`)[0];
+            popup_3d3a68e394dc4202ac54917d1fdf93c0.setContent(html_3f938136a5d643b68f1eb3480fd1776f);
+        
+
+        marker_e2c886a490f74cd59537e41397163165.bindPopup(popup_3d3a68e394dc4202ac54917d1fdf93c0)
+        ;
+
+        
+    
+    
+            marker_e2c886a490f74cd59537e41397163165.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_8fe0391c1a50400c88eed0462384d293 = L.marker(
+                [10.790514, 122.104079],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_8381af8be1c44334bec70e06da8f73ec = L.popup({"maxWidth": "100%"});
+
+        
+            var html_16975487b3304a01a9f655dbe69f1159 = $(`<div id="html_16975487b3304a01a9f655dbe69f1159" style="width: 100.0%; height: 100.0%;">Date:<br>2016-03-07<br>Sightings:<br>14</div>`)[0];
+            popup_8381af8be1c44334bec70e06da8f73ec.setContent(html_16975487b3304a01a9f655dbe69f1159);
+        
+
+        marker_8fe0391c1a50400c88eed0462384d293.bindPopup(popup_8381af8be1c44334bec70e06da8f73ec)
+        ;
+
+        
+    
+    
+            marker_8fe0391c1a50400c88eed0462384d293.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_de6aea1647a444fda2fc90f9830e3a3a = L.marker(
+                [10.803935, 122.142841],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_7579a11954ec4e3a891c25ed3ff1ac8f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_d8c38fba42c74ae68481169d3f8f6603 = $(`<div id="html_d8c38fba42c74ae68481169d3f8f6603" style="width: 100.0%; height: 100.0%;">Date:<br>2016-04-04<br>Sightings:<br>16</div>`)[0];
+            popup_7579a11954ec4e3a891c25ed3ff1ac8f.setContent(html_d8c38fba42c74ae68481169d3f8f6603);
+        
+
+        marker_de6aea1647a444fda2fc90f9830e3a3a.bindPopup(popup_7579a11954ec4e3a891c25ed3ff1ac8f)
+        ;
+
+        
+    
+    
+            marker_de6aea1647a444fda2fc90f9830e3a3a.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_bc14eace51904648ba58f9b249cfbfd6 = L.marker(
+                [10.793296, 122.110007],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_6828e64b659a4dbeb9b5df4a59844dd9 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_bd7a13e5a5df44fcbbb8bcb9e45f7cec = $(`<div id="html_bd7a13e5a5df44fcbbb8bcb9e45f7cec" style="width: 100.0%; height: 100.0%;">Date:<br>2016-05-02<br>Sightings:<br>16</div>`)[0];
+            popup_6828e64b659a4dbeb9b5df4a59844dd9.setContent(html_bd7a13e5a5df44fcbbb8bcb9e45f7cec);
+        
+
+        marker_bc14eace51904648ba58f9b249cfbfd6.bindPopup(popup_6828e64b659a4dbeb9b5df4a59844dd9)
+        ;
+
+        
+    
+    
+            marker_bc14eace51904648ba58f9b249cfbfd6.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_eb3f0634650b43a8a19bdff3eec906e4 = L.marker(
+                [10.787312, 122.104682],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_364739d1b7d3441fbfc9a90ea03d14f1 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_5ffc635ee3a34c20aa0cbe1ba6ab6084 = $(`<div id="html_5ffc635ee3a34c20aa0cbe1ba6ab6084" style="width: 100.0%; height: 100.0%;">Date:<br>2016-06-06<br>Sightings:<br>18</div>`)[0];
+            popup_364739d1b7d3441fbfc9a90ea03d14f1.setContent(html_5ffc635ee3a34c20aa0cbe1ba6ab6084);
+        
+
+        marker_eb3f0634650b43a8a19bdff3eec906e4.bindPopup(popup_364739d1b7d3441fbfc9a90ea03d14f1)
+        ;
+
+        
+    
+    
+            marker_eb3f0634650b43a8a19bdff3eec906e4.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_0df66a1a340f4090873c5a3358d77f7a = L.marker(
+                [10.803936, 122.142841],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_08710d29ad3f44c5849682abfd6a9fc2 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_fc2fbe8d869d4ffa88c786c620eb4e55 = $(`<div id="html_fc2fbe8d869d4ffa88c786c620eb4e55" style="width: 100.0%; height: 100.0%;">Date:<br>2016-07-04<br>Sightings:<br>22</div>`)[0];
+            popup_08710d29ad3f44c5849682abfd6a9fc2.setContent(html_fc2fbe8d869d4ffa88c786c620eb4e55);
+        
+
+        marker_0df66a1a340f4090873c5a3358d77f7a.bindPopup(popup_08710d29ad3f44c5849682abfd6a9fc2)
+        ;
+
+        
+    
+    
+            marker_0df66a1a340f4090873c5a3358d77f7a.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_a3a719afc0eb4aa9aae28c73876548ce = L.marker(
+                [10.790514, 122.104079],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_582d3d62249049ddb778d05fd8ab4a66 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0eb10a8d856d423da44ebf4c2832d3ff = $(`<div id="html_0eb10a8d856d423da44ebf4c2832d3ff" style="width: 100.0%; height: 100.0%;">Date:<br>2016-08-01<br>Sightings:<br>24</div>`)[0];
+            popup_582d3d62249049ddb778d05fd8ab4a66.setContent(html_0eb10a8d856d423da44ebf4c2832d3ff);
+        
+
+        marker_a3a719afc0eb4aa9aae28c73876548ce.bindPopup(popup_582d3d62249049ddb778d05fd8ab4a66)
+        ;
+
+        
+    
+    
+            marker_a3a719afc0eb4aa9aae28c73876548ce.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_05d1aa355ea74e71b9c019ea1c0e56d8 = L.marker(
+                [10.803935, 122.142841],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_5629a4268fc049cda340b1e6ad6a64a3 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_11e9e7a49e2547419794e2846ef724ee = $(`<div id="html_11e9e7a49e2547419794e2846ef724ee" style="width: 100.0%; height: 100.0%;">Date:<br>2016-09-05<br>Sightings:<br>22</div>`)[0];
+            popup_5629a4268fc049cda340b1e6ad6a64a3.setContent(html_11e9e7a49e2547419794e2846ef724ee);
+        
+
+        marker_05d1aa355ea74e71b9c019ea1c0e56d8.bindPopup(popup_5629a4268fc049cda340b1e6ad6a64a3)
+        ;
+
+        
+    
+    
+            marker_05d1aa355ea74e71b9c019ea1c0e56d8.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c0f23042935b416f98c1b2f78933d457 = L.marker(
+                [10.791442, 122.107001],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_b4de011d53cf4e5e8d086bc39e2e0535 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_091acb2b7a85418eb50f946edd0f8b6d = $(`<div id="html_091acb2b7a85418eb50f946edd0f8b6d" style="width: 100.0%; height: 100.0%;">Date:<br>2016-10-03<br>Sightings:<br>15</div>`)[0];
+            popup_b4de011d53cf4e5e8d086bc39e2e0535.setContent(html_091acb2b7a85418eb50f946edd0f8b6d);
+        
+
+        marker_c0f23042935b416f98c1b2f78933d457.bindPopup(popup_b4de011d53cf4e5e8d086bc39e2e0535)
+        ;
+
+        
+    
+    
+            marker_c0f23042935b416f98c1b2f78933d457.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_40aea43c26ae4512b7e235ea65a2ed4c = L.marker(
+                [10.803472, 122.142326],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_59c69010abfe47d392797079c6b18ae9 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ff2f54ebf33b4ec882909dc95deae90e = $(`<div id="html_ff2f54ebf33b4ec882909dc95deae90e" style="width: 100.0%; height: 100.0%;">Date:<br>2016-11-07<br>Sightings:<br>11</div>`)[0];
+            popup_59c69010abfe47d392797079c6b18ae9.setContent(html_ff2f54ebf33b4ec882909dc95deae90e);
+        
+
+        marker_40aea43c26ae4512b7e235ea65a2ed4c.bindPopup(popup_59c69010abfe47d392797079c6b18ae9)
+        ;
+
+        
+    
+    
+            marker_40aea43c26ae4512b7e235ea65a2ed4c.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_09b87fd93eda435881c81827883db552 = L.marker(
+                [10.793296, 122.110006],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_9ac94b1ee52c4b1180c31177970ca894 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9a41a387e1434bc0a2a0534defa319e8 = $(`<div id="html_9a41a387e1434bc0a2a0534defa319e8" style="width: 100.0%; height: 100.0%;">Date:<br>2016-12-05<br>Sightings:<br>18</div>`)[0];
+            popup_9ac94b1ee52c4b1180c31177970ca894.setContent(html_9a41a387e1434bc0a2a0534defa319e8);
+        
+
+        marker_09b87fd93eda435881c81827883db552.bindPopup(popup_9ac94b1ee52c4b1180c31177970ca894)
+        ;
+
+        
+    
+    
+            marker_09b87fd93eda435881c81827883db552.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c18f7380a0f948cfa56cfaa32d28b68a = L.marker(
+                [10.787312, 122.104682],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_ff62a941fd13497cb9a977a4440b3d90 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ea00218aa7b44d32bddefebda2de0f2b = $(`<div id="html_ea00218aa7b44d32bddefebda2de0f2b" style="width: 100.0%; height: 100.0%;">Date:<br>2017-01-02<br>Sightings:<br>19</div>`)[0];
+            popup_ff62a941fd13497cb9a977a4440b3d90.setContent(html_ea00218aa7b44d32bddefebda2de0f2b);
+        
+
+        marker_c18f7380a0f948cfa56cfaa32d28b68a.bindPopup(popup_ff62a941fd13497cb9a977a4440b3d90)
+        ;
+
+        
+    
+    
+            marker_c18f7380a0f948cfa56cfaa32d28b68a.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_deb3396d961e48a9a15cb3a49a3a9a36 = L.marker(
+                [10.803071, 122.14355],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_47845a76500b41b483b2dfbff9e3f517 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ef7c1539d08f48449f469b25f94e7426 = $(`<div id="html_ef7c1539d08f48449f469b25f94e7426" style="width: 100.0%; height: 100.0%;">Date:<br>2017-02-06<br>Sightings:<br>11</div>`)[0];
+            popup_47845a76500b41b483b2dfbff9e3f517.setContent(html_ef7c1539d08f48449f469b25f94e7426);
+        
+
+        marker_deb3396d961e48a9a15cb3a49a3a9a36.bindPopup(popup_47845a76500b41b483b2dfbff9e3f517)
+        ;
+
+        
+    
+    
+            marker_deb3396d961e48a9a15cb3a49a3a9a36.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_d336416fbf6a4f1b9b92704c81f250ff = L.marker(
+                [10.790514, 122.104079],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_806d98132cc3470fb4a896fd8e5d24a3 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_4ba41476b7114342b771a9e4687c1bcc = $(`<div id="html_4ba41476b7114342b771a9e4687c1bcc" style="width: 100.0%; height: 100.0%;">Date:<br>2017-03-06<br>Sightings:<br>12</div>`)[0];
+            popup_806d98132cc3470fb4a896fd8e5d24a3.setContent(html_4ba41476b7114342b771a9e4687c1bcc);
+        
+
+        marker_d336416fbf6a4f1b9b92704c81f250ff.bindPopup(popup_806d98132cc3470fb4a896fd8e5d24a3)
+        ;
+
+        
+    
+    
+            marker_d336416fbf6a4f1b9b92704c81f250ff.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_d2e4a018f25f4848ae25fed3b8188796 = L.marker(
+                [10.803937, 122.14244],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_b72a2440c0a649f58c5bed30ac0ff907 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_20e6415a994944f0bbd3c0b56d057f9c = $(`<div id="html_20e6415a994944f0bbd3c0b56d057f9c" style="width: 100.0%; height: 100.0%;">Date:<br>2017-04-03<br>Sightings:<br>14</div>`)[0];
+            popup_b72a2440c0a649f58c5bed30ac0ff907.setContent(html_20e6415a994944f0bbd3c0b56d057f9c);
+        
+
+        marker_d2e4a018f25f4848ae25fed3b8188796.bindPopup(popup_b72a2440c0a649f58c5bed30ac0ff907)
+        ;
+
+        
+    
+    
+            marker_d2e4a018f25f4848ae25fed3b8188796.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_22e81e50d2c8415c84c33762954fe1eb = L.marker(
+                [10.793298, 122.110005],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_5c184d9569e046b1830f4a6c64230cc1 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_721ce11031954149ac248dc2498c5024 = $(`<div id="html_721ce11031954149ac248dc2498c5024" style="width: 100.0%; height: 100.0%;">Date:<br>2017-05-08<br>Sightings:<br>16</div>`)[0];
+            popup_5c184d9569e046b1830f4a6c64230cc1.setContent(html_721ce11031954149ac248dc2498c5024);
+        
+
+        marker_22e81e50d2c8415c84c33762954fe1eb.bindPopup(popup_5c184d9569e046b1830f4a6c64230cc1)
+        ;
+
+        
+    
+    
+            marker_22e81e50d2c8415c84c33762954fe1eb.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_d8c946b269af4f2e84dc901eb6f01937 = L.marker(
+                [10.787311, 122.104681],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_1a2367c7c7594036978e6bd96027d2ad = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9b3f8af19fc047cdada8d97965919590 = $(`<div id="html_9b3f8af19fc047cdada8d97965919590" style="width: 100.0%; height: 100.0%;">Date:<br>2017-06-05<br>Sightings:<br>16</div>`)[0];
+            popup_1a2367c7c7594036978e6bd96027d2ad.setContent(html_9b3f8af19fc047cdada8d97965919590);
+        
+
+        marker_d8c946b269af4f2e84dc901eb6f01937.bindPopup(popup_1a2367c7c7594036978e6bd96027d2ad)
+        ;
+
+        
+    
+    
+            marker_d8c946b269af4f2e84dc901eb6f01937.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_35dff5edd6824f2fbfcbd9708df9018c = L.marker(
+                [10.803937, 122.142843],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_3adcee54bbae4afaa2c011c997af9785 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ee174b532ecd437094ac1c01bb60bb95 = $(`<div id="html_ee174b532ecd437094ac1c01bb60bb95" style="width: 100.0%; height: 100.0%;">Date:<br>2017-07-03<br>Sightings:<br>24</div>`)[0];
+            popup_3adcee54bbae4afaa2c011c997af9785.setContent(html_ee174b532ecd437094ac1c01bb60bb95);
+        
+
+        marker_35dff5edd6824f2fbfcbd9708df9018c.bindPopup(popup_3adcee54bbae4afaa2c011c997af9785)
+        ;
+
+        
+    
+    
+            marker_35dff5edd6824f2fbfcbd9708df9018c.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_b3491c10442e4b23809ec01c96b7d936 = L.marker(
+                [10.790515, 122.104078],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_cebe12ab41274992980a189a611f5be6 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9baa7f2ca5f34fb296a5e5d96a30f7ae = $(`<div id="html_9baa7f2ca5f34fb296a5e5d96a30f7ae" style="width: 100.0%; height: 100.0%;">Date:<br>2017-08-07<br>Sightings:<br>22</div>`)[0];
+            popup_cebe12ab41274992980a189a611f5be6.setContent(html_9baa7f2ca5f34fb296a5e5d96a30f7ae);
+        
+
+        marker_b3491c10442e4b23809ec01c96b7d936.bindPopup(popup_cebe12ab41274992980a189a611f5be6)
+        ;
+
+        
+    
+    
+            marker_b3491c10442e4b23809ec01c96b7d936.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_211cd412dfbd4066962332fbf18ba46b = L.marker(
+                [10.803934, 122.14284],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_8ec586f049984e5eb2cced3f86d64e9d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_5e0e107662b549f795fbd54d300c1a27 = $(`<div id="html_5e0e107662b549f795fbd54d300c1a27" style="width: 100.0%; height: 100.0%;">Date:<br>2017-09-04<br>Sightings:<br>23</div>`)[0];
+            popup_8ec586f049984e5eb2cced3f86d64e9d.setContent(html_5e0e107662b549f795fbd54d300c1a27);
+        
+
+        marker_211cd412dfbd4066962332fbf18ba46b.bindPopup(popup_8ec586f049984e5eb2cced3f86d64e9d)
+        ;
+
+        
+    
+    
+            marker_211cd412dfbd4066962332fbf18ba46b.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_9ba43cca042044329a9c9d912f910cc4 = L.marker(
+                [10.793295, 122.11008],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_b534e6bae46344eab5ff5291a16a2672 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a328322ab6d54fc390e40d997437bcdf = $(`<div id="html_a328322ab6d54fc390e40d997437bcdf" style="width: 100.0%; height: 100.0%;">Date:<br>2017-10-02<br>Sightings:<br>10</div>`)[0];
+            popup_b534e6bae46344eab5ff5291a16a2672.setContent(html_a328322ab6d54fc390e40d997437bcdf);
+        
+
+        marker_9ba43cca042044329a9c9d912f910cc4.bindPopup(popup_b534e6bae46344eab5ff5291a16a2672)
+        ;
+
+        
+    
+    
+            marker_9ba43cca042044329a9c9d912f910cc4.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_0bced1fdb39044d1a09100bc1bf8940c = L.marker(
+                [10.803933, 122.142844],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_5356956d035845bfaee30680382b4ba1 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e66c6ee2f5044697b3e80959ef6c54a9 = $(`<div id="html_e66c6ee2f5044697b3e80959ef6c54a9" style="width: 100.0%; height: 100.0%;">Date:<br>2017-11-06<br>Sightings:<br>18</div>`)[0];
+            popup_5356956d035845bfaee30680382b4ba1.setContent(html_e66c6ee2f5044697b3e80959ef6c54a9);
+        
+
+        marker_0bced1fdb39044d1a09100bc1bf8940c.bindPopup(popup_5356956d035845bfaee30680382b4ba1)
+        ;
+
+        
+    
+    
+            marker_0bced1fdb39044d1a09100bc1bf8940c.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_17f5bad6bcfd4227a79472f5a9cf7e4a = L.marker(
+                [10.793294, 122.11009],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_3e194b2e93d44728b1210002c6ba7ffa = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6f6d226b402046448f1ad392c1d6cae2 = $(`<div id="html_6f6d226b402046448f1ad392c1d6cae2" style="width: 100.0%; height: 100.0%;">Date:<br>2017-12-04<br>Sightings:<br>19</div>`)[0];
+            popup_3e194b2e93d44728b1210002c6ba7ffa.setContent(html_6f6d226b402046448f1ad392c1d6cae2);
+        
+
+        marker_17f5bad6bcfd4227a79472f5a9cf7e4a.bindPopup(popup_3e194b2e93d44728b1210002c6ba7ffa)
+        ;
+
+        
+    
+    
+            marker_17f5bad6bcfd4227a79472f5a9cf7e4a.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_40a43e66ee9047c4bf33719dc6278d9f = L.marker(
+                [10.787314, 122.10468],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_06cde3e4313b47cab8cc62cf564a183b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_7a6ff5894c10457b918fa29837280ac8 = $(`<div id="html_7a6ff5894c10457b918fa29837280ac8" style="width: 100.0%; height: 100.0%;">Date:<br>2018-01-08<br>Sightings:<br>28</div>`)[0];
+            popup_06cde3e4313b47cab8cc62cf564a183b.setContent(html_7a6ff5894c10457b918fa29837280ac8);
+        
+
+        marker_40a43e66ee9047c4bf33719dc6278d9f.bindPopup(popup_06cde3e4313b47cab8cc62cf564a183b)
+        ;
+
+        
+    
+    
+            marker_40a43e66ee9047c4bf33719dc6278d9f.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_b4794f0d7de0495190c063ceea5ccdd8 = L.marker(
+                [10.80307, 122.14355],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_03dbcde7baa744b8992bafd243027ab9 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_2d3f5f5baada4b9bbfad841006881eeb = $(`<div id="html_2d3f5f5baada4b9bbfad841006881eeb" style="width: 100.0%; height: 100.0%;">Date:<br>2018-02-05<br>Sightings:<br>17</div>`)[0];
+            popup_03dbcde7baa744b8992bafd243027ab9.setContent(html_2d3f5f5baada4b9bbfad841006881eeb);
+        
+
+        marker_b4794f0d7de0495190c063ceea5ccdd8.bindPopup(popup_03dbcde7baa744b8992bafd243027ab9)
+        ;
+
+        
+    
+    
+            marker_b4794f0d7de0495190c063ceea5ccdd8.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6c6af07ed8064b378de474cd1fea56bd = L.marker(
+                [10.790513, 122.104077],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_257d3a8013414d6c99bbe1bc9b9966c7 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_940169ad89ed4ebb9e5087e2cc663a7d = $(`<div id="html_940169ad89ed4ebb9e5087e2cc663a7d" style="width: 100.0%; height: 100.0%;">Date:<br>2018-03-05<br>Sightings:<br>18</div>`)[0];
+            popup_257d3a8013414d6c99bbe1bc9b9966c7.setContent(html_940169ad89ed4ebb9e5087e2cc663a7d);
+        
+
+        marker_6c6af07ed8064b378de474cd1fea56bd.bindPopup(popup_257d3a8013414d6c99bbe1bc9b9966c7)
+        ;
+
+        
+    
+    
+            marker_6c6af07ed8064b378de474cd1fea56bd.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_759d9ede54c44a90bc245c540790d8a5 = L.marker(
+                [10.803932, 122.142845],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_237923675a0147e3ad41f6e3725295dd = L.popup({"maxWidth": "100%"});
+
+        
+            var html_512854a278a748ebb69e8649e551d8c6 = $(`<div id="html_512854a278a748ebb69e8649e551d8c6" style="width: 100.0%; height: 100.0%;">Date:<br>2018-04-02<br>Sightings:<br>17</div>`)[0];
+            popup_237923675a0147e3ad41f6e3725295dd.setContent(html_512854a278a748ebb69e8649e551d8c6);
+        
+
+        marker_759d9ede54c44a90bc245c540790d8a5.bindPopup(popup_237923675a0147e3ad41f6e3725295dd)
+        ;
+
+        
+    
+    
+            marker_759d9ede54c44a90bc245c540790d8a5.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_24713f7b93564c07b975cac64ddc93b5 = L.marker(
+                [10.793299, 122.11007],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_8e2e577ce6de47f48b220433cb733320 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_cc483d6be032419d9f8fee0d17cb431e = $(`<div id="html_cc483d6be032419d9f8fee0d17cb431e" style="width: 100.0%; height: 100.0%;">Date:<br>2018-05-07<br>Sightings:<br>27</div>`)[0];
+            popup_8e2e577ce6de47f48b220433cb733320.setContent(html_cc483d6be032419d9f8fee0d17cb431e);
+        
+
+        marker_24713f7b93564c07b975cac64ddc93b5.bindPopup(popup_8e2e577ce6de47f48b220433cb733320)
+        ;
+
+        
+    
+    
+            marker_24713f7b93564c07b975cac64ddc93b5.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_5820d34ff42f43c89ebd6c31e358a582 = L.marker(
+                [10.787315, 122.104684],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_d6ae94552a034040ad321b9cc997790c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_12bc318f33674799be1a831fc00331de = $(`<div id="html_12bc318f33674799be1a831fc00331de" style="width: 100.0%; height: 100.0%;">Date:<br>2018-06-04<br>Sightings:<br>19</div>`)[0];
+            popup_d6ae94552a034040ad321b9cc997790c.setContent(html_12bc318f33674799be1a831fc00331de);
+        
+
+        marker_5820d34ff42f43c89ebd6c31e358a582.bindPopup(popup_d6ae94552a034040ad321b9cc997790c)
+        ;
+
+        
+    
+    
+            marker_5820d34ff42f43c89ebd6c31e358a582.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_87442bf28ae44a83825666e07b962957 = L.marker(
+                [10.803934, 122.142846],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_8f0a8bedcbd648c7a834e78991ae8d4f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c81a2ada9b834c7ba953f3cd3f6cb755 = $(`<div id="html_c81a2ada9b834c7ba953f3cd3f6cb755" style="width: 100.0%; height: 100.0%;">Date:<br>2018-07-02<br>Sightings:<br>28</div>`)[0];
+            popup_8f0a8bedcbd648c7a834e78991ae8d4f.setContent(html_c81a2ada9b834c7ba953f3cd3f6cb755);
+        
+
+        marker_87442bf28ae44a83825666e07b962957.bindPopup(popup_8f0a8bedcbd648c7a834e78991ae8d4f)
+        ;
+
+        
+    
+    
+            marker_87442bf28ae44a83825666e07b962957.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_b225690115244965ae7dd36639f8fed9 = L.marker(
+                [10.790512, 122.104076],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_68ae2a9341b3412cb8a6ce955b1139e1 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_02bf15f568f04d5fafa8e670e45de14e = $(`<div id="html_02bf15f568f04d5fafa8e670e45de14e" style="width: 100.0%; height: 100.0%;">Date:<br>2018-08-06<br>Sightings:<br>27</div>`)[0];
+            popup_68ae2a9341b3412cb8a6ce955b1139e1.setContent(html_02bf15f568f04d5fafa8e670e45de14e);
+        
+
+        marker_b225690115244965ae7dd36639f8fed9.bindPopup(popup_68ae2a9341b3412cb8a6ce955b1139e1)
+        ;
+
+        
+    
+    
+            marker_b225690115244965ae7dd36639f8fed9.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_ed47f01561a249aeaa810b2493fe8102 = L.marker(
+                [10.803938, 122.142846],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_16ed7b9c052d43c5a7e719c0888f8f62 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_58ed23353b4c4d05bee4e24368f27301 = $(`<div id="html_58ed23353b4c4d05bee4e24368f27301" style="width: 100.0%; height: 100.0%;">Date:<br>2018-09-03<br>Sightings:<br>23</div>`)[0];
+            popup_16ed7b9c052d43c5a7e719c0888f8f62.setContent(html_58ed23353b4c4d05bee4e24368f27301);
+        
+
+        marker_ed47f01561a249aeaa810b2493fe8102.bindPopup(popup_16ed7b9c052d43c5a7e719c0888f8f62)
+        ;
+
+        
+    
+    
+            marker_ed47f01561a249aeaa810b2493fe8102.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_3f0026836cf44f8a9f26562e463c716d = L.marker(
+                [10.793293, 122.110008],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_3ca19da40e10430b90fc732fec6cf995 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_30d5226e5b6740618169a8d438663671 = $(`<div id="html_30d5226e5b6740618169a8d438663671" style="width: 100.0%; height: 100.0%;">Date:<br>2018-10-01<br>Sightings:<br>30</div>`)[0];
+            popup_3ca19da40e10430b90fc732fec6cf995.setContent(html_30d5226e5b6740618169a8d438663671);
+        
+
+        marker_3f0026836cf44f8a9f26562e463c716d.bindPopup(popup_3ca19da40e10430b90fc732fec6cf995)
+        ;
+
+        
+    
+    
+            marker_3f0026836cf44f8a9f26562e463c716d.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_162146684ed442d2b569691cbb328e3e = L.marker(
+                [10.803938, 122.142441],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_dad1262f28c84cbf9c9c0762872fdce3 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c5eb821c5cfe4d51babf3f8e6bdede6f = $(`<div id="html_c5eb821c5cfe4d51babf3f8e6bdede6f" style="width: 100.0%; height: 100.0%;">Date:<br>2018-11-05<br>Sightings:<br>22</div>`)[0];
+            popup_dad1262f28c84cbf9c9c0762872fdce3.setContent(html_c5eb821c5cfe4d51babf3f8e6bdede6f);
+        
+
+        marker_162146684ed442d2b569691cbb328e3e.bindPopup(popup_dad1262f28c84cbf9c9c0762872fdce3)
+        ;
+
+        
+    
+    
+            marker_162146684ed442d2b569691cbb328e3e.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_1977af5f399447a08425dd7d4411fc64 = L.marker(
+                [10.793299, 122.110009],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_d2aea6267095413c8e17f47a005d287a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_147c3bee173744929d1ffbf54dd8c229 = $(`<div id="html_147c3bee173744929d1ffbf54dd8c229" style="width: 100.0%; height: 100.0%;">Date:<br>2018-12-03<br>Sightings:<br>21</div>`)[0];
+            popup_d2aea6267095413c8e17f47a005d287a.setContent(html_147c3bee173744929d1ffbf54dd8c229);
+        
+
+        marker_1977af5f399447a08425dd7d4411fc64.bindPopup(popup_d2aea6267095413c8e17f47a005d287a)
+        ;
+
+        
+    
+    
+            marker_1977af5f399447a08425dd7d4411fc64.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_f0196449c6a3471584995a889ea214f8 = L.marker(
+                [10.787313, 122.104686],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_595f1450afc143d187987299f1c02765 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_89b3a1f99af84340b8fd9e6700c1b6aa = $(`<div id="html_89b3a1f99af84340b8fd9e6700c1b6aa" style="width: 100.0%; height: 100.0%;">Date:<br>2019-01-07<br>Sightings:<br>22</div>`)[0];
+            popup_595f1450afc143d187987299f1c02765.setContent(html_89b3a1f99af84340b8fd9e6700c1b6aa);
+        
+
+        marker_f0196449c6a3471584995a889ea214f8.bindPopup(popup_595f1450afc143d187987299f1c02765)
+        ;
+
+        
+    
+    
+            marker_f0196449c6a3471584995a889ea214f8.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6d13189274994aecb5fca57b94133bc2 = L.marker(
+                [10.803074, 122.143547],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_1e54c76fa47c4159b37825faa19db861 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1d36148a73d045c78d53b0853d295598 = $(`<div id="html_1d36148a73d045c78d53b0853d295598" style="width: 100.0%; height: 100.0%;">Date:<br>2019-02-04<br>Sightings:<br>22</div>`)[0];
+            popup_1e54c76fa47c4159b37825faa19db861.setContent(html_1d36148a73d045c78d53b0853d295598);
+        
+
+        marker_6d13189274994aecb5fca57b94133bc2.bindPopup(popup_1e54c76fa47c4159b37825faa19db861)
+        ;
+
+        
+    
+    
+            marker_6d13189274994aecb5fca57b94133bc2.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_1a8a6a96ef9d4dfeba6e35cc86d2f4bd = L.marker(
+                [10.790414, 122.104075],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_3910452ccb2843ed9de37fd8880dc853 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ed0c10865a1244efb25fb1d45a453657 = $(`<div id="html_ed0c10865a1244efb25fb1d45a453657" style="width: 100.0%; height: 100.0%;">Date:<br>2019-03-04<br>Sightings:<br>21</div>`)[0];
+            popup_3910452ccb2843ed9de37fd8880dc853.setContent(html_ed0c10865a1244efb25fb1d45a453657);
+        
+
+        marker_1a8a6a96ef9d4dfeba6e35cc86d2f4bd.bindPopup(popup_3910452ccb2843ed9de37fd8880dc853)
+        ;
+
+        
+    
+    
+            marker_1a8a6a96ef9d4dfeba6e35cc86d2f4bd.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_d2cd460c251c4d5fadbd9dade41adbbc = L.marker(
+                [10.803931, 122.142845],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_a26485bedd14497a9760c391936d2b71 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1cb7c71e225a416b9f0bcc3cb6533314 = $(`<div id="html_1cb7c71e225a416b9f0bcc3cb6533314" style="width: 100.0%; height: 100.0%;">Date:<br>2019-04-01<br>Sightings:<br>21</div>`)[0];
+            popup_a26485bedd14497a9760c391936d2b71.setContent(html_1cb7c71e225a416b9f0bcc3cb6533314);
+        
+
+        marker_d2cd460c251c4d5fadbd9dade41adbbc.bindPopup(popup_a26485bedd14497a9760c391936d2b71)
+        ;
+
+        
+    
+    
+            marker_d2cd460c251c4d5fadbd9dade41adbbc.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c5e2a5dc5c814048b059efc92a3fa1cc = L.marker(
+                [10.793292, 122.110001],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_3be2e6cbab474e42a5e5270489a8c183 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e321f14a1071406290ed3319c0941eed = $(`<div id="html_e321f14a1071406290ed3319c0941eed" style="width: 100.0%; height: 100.0%;">Date:<br>2019-05-06<br>Sightings:<br>21</div>`)[0];
+            popup_3be2e6cbab474e42a5e5270489a8c183.setContent(html_e321f14a1071406290ed3319c0941eed);
+        
+
+        marker_c5e2a5dc5c814048b059efc92a3fa1cc.bindPopup(popup_3be2e6cbab474e42a5e5270489a8c183)
+        ;
+
+        
+    
+    
+            marker_c5e2a5dc5c814048b059efc92a3fa1cc.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_15aa89c1a27a42b396429b791af81fd1 = L.marker(
+                [10.787315, 122.104686],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_daedc38e188d4433b129b19eb73f9252 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6544243492d54401bb38bf482947e8b7 = $(`<div id="html_6544243492d54401bb38bf482947e8b7" style="width: 100.0%; height: 100.0%;">Date:<br>2019-06-03<br>Sightings:<br>25</div>`)[0];
+            popup_daedc38e188d4433b129b19eb73f9252.setContent(html_6544243492d54401bb38bf482947e8b7);
+        
+
+        marker_15aa89c1a27a42b396429b791af81fd1.bindPopup(popup_daedc38e188d4433b129b19eb73f9252)
+        ;
+
+        
+    
+    
+            marker_15aa89c1a27a42b396429b791af81fd1.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_b942655cb07147b28a936b98e65dd0f1 = L.marker(
+                [10.803932, 122.142844],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_34b537035d73446b85048529fd65a8c9 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_2bb9d984c5584be197aff39da74431d7 = $(`<div id="html_2bb9d984c5584be197aff39da74431d7" style="width: 100.0%; height: 100.0%;">Date:<br>2019-07-01<br>Sightings:<br>28</div>`)[0];
+            popup_34b537035d73446b85048529fd65a8c9.setContent(html_2bb9d984c5584be197aff39da74431d7);
+        
+
+        marker_b942655cb07147b28a936b98e65dd0f1.bindPopup(popup_34b537035d73446b85048529fd65a8c9)
+        ;
+
+        
+    
+    
+            marker_b942655cb07147b28a936b98e65dd0f1.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_410caa72abc04a2e944ca15b710aa63b = L.marker(
+                [10.790515, 122.104074],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_d479d0be01ea4e87a59b8573d93a1b51 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_7210f9c35e914b56b2d06adaf557e667 = $(`<div id="html_7210f9c35e914b56b2d06adaf557e667" style="width: 100.0%; height: 100.0%;">Date:<br>2019-08-05<br>Sightings:<br>13</div>`)[0];
+            popup_d479d0be01ea4e87a59b8573d93a1b51.setContent(html_7210f9c35e914b56b2d06adaf557e667);
+        
+
+        marker_410caa72abc04a2e944ca15b710aa63b.bindPopup(popup_d479d0be01ea4e87a59b8573d93a1b51)
+        ;
+
+        
+    
+    
+            marker_410caa72abc04a2e944ca15b710aa63b.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6c6a5f94ce9647caaddd2a73b3b4909b = L.marker(
+                [10.803931, 122.142847],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_72005b265ad34f96b802ec1b5f7495c1 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3cce5faa1a6a410b92dd1298293d0cf1 = $(`<div id="html_3cce5faa1a6a410b92dd1298293d0cf1" style="width: 100.0%; height: 100.0%;">Date:<br>2019-09-02<br>Sightings:<br>30</div>`)[0];
+            popup_72005b265ad34f96b802ec1b5f7495c1.setContent(html_3cce5faa1a6a410b92dd1298293d0cf1);
+        
+
+        marker_6c6a5f94ce9647caaddd2a73b3b4909b.bindPopup(popup_72005b265ad34f96b802ec1b5f7495c1)
+        ;
+
+        
+    
+    
+            marker_6c6a5f94ce9647caaddd2a73b3b4909b.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_4b1e0701da4f4ce1b0087cb550a9bfc4 = L.marker(
+                [10.793295, 122.110004],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_957b7b5a7f4d4e8ca2522e16df65ae05 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8ae9bd86e9de47ef98faee49747c069d = $(`<div id="html_8ae9bd86e9de47ef98faee49747c069d" style="width: 100.0%; height: 100.0%;">Date:<br>2019-10-07<br>Sightings:<br>28</div>`)[0];
+            popup_957b7b5a7f4d4e8ca2522e16df65ae05.setContent(html_8ae9bd86e9de47ef98faee49747c069d);
+        
+
+        marker_4b1e0701da4f4ce1b0087cb550a9bfc4.bindPopup(popup_957b7b5a7f4d4e8ca2522e16df65ae05)
+        ;
+
+        
+    
+    
+            marker_4b1e0701da4f4ce1b0087cb550a9bfc4.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_f63cc95935ee48e3b7e2d3d22a236265 = L.marker(
+                [10.803935, 122.142843],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_bf676f4c15ac4e13ae3e803281dce640 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_66d0e6edc84d4f9593b7cf319767721c = $(`<div id="html_66d0e6edc84d4f9593b7cf319767721c" style="width: 100.0%; height: 100.0%;">Date:<br>2019-11-04<br>Sightings:<br>14</div>`)[0];
+            popup_bf676f4c15ac4e13ae3e803281dce640.setContent(html_66d0e6edc84d4f9593b7cf319767721c);
+        
+
+        marker_f63cc95935ee48e3b7e2d3d22a236265.bindPopup(popup_bf676f4c15ac4e13ae3e803281dce640)
+        ;
+
+        
+    
+    
+            marker_f63cc95935ee48e3b7e2d3d22a236265.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_cb5aacff7b024124b18b41568a4333d9 = L.marker(
+                [10.793298, 122.11001],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_f22f20eec0f44ccc876de184d644960c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c2e191e3a07b44c2826e0a3d55da752d = $(`<div id="html_c2e191e3a07b44c2826e0a3d55da752d" style="width: 100.0%; height: 100.0%;">Date:<br>2019-12-02<br>Sightings:<br>27</div>`)[0];
+            popup_f22f20eec0f44ccc876de184d644960c.setContent(html_c2e191e3a07b44c2826e0a3d55da752d);
+        
+
+        marker_cb5aacff7b024124b18b41568a4333d9.bindPopup(popup_f22f20eec0f44ccc876de184d644960c)
+        ;
+
+        
+    
+    
+            marker_cb5aacff7b024124b18b41568a4333d9.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_3c69b362c259468597a624adf3ed0562 = L.marker(
+                [10.787313, 122.104684],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_731b656e65a645fe9b15d8ad1d537ed0 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_4b53326e26cd4e11ae654633dcd60096 = $(`<div id="html_4b53326e26cd4e11ae654633dcd60096" style="width: 100.0%; height: 100.0%;">Date:<br>2020-01-06<br>Sightings:<br>22</div>`)[0];
+            popup_731b656e65a645fe9b15d8ad1d537ed0.setContent(html_4b53326e26cd4e11ae654633dcd60096);
+        
+
+        marker_3c69b362c259468597a624adf3ed0562.bindPopup(popup_731b656e65a645fe9b15d8ad1d537ed0)
+        ;
+
+        
+    
+    
+            marker_3c69b362c259468597a624adf3ed0562.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_b3620b4e58604421b6d30886d6f7386a = L.marker(
+                [10.803076, 122.143543],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_4d2d211e6b634683908780e0c6118f14 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_01535fef5c5743a3914c40c4b2820ac9 = $(`<div id="html_01535fef5c5743a3914c40c4b2820ac9" style="width: 100.0%; height: 100.0%;">Date:<br>2020-02-03<br>Sightings:<br>18</div>`)[0];
+            popup_4d2d211e6b634683908780e0c6118f14.setContent(html_01535fef5c5743a3914c40c4b2820ac9);
+        
+
+        marker_b3620b4e58604421b6d30886d6f7386a.bindPopup(popup_4d2d211e6b634683908780e0c6118f14)
+        ;
+
+        
+    
+    
+            marker_b3620b4e58604421b6d30886d6f7386a.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_833a255b4abc4074867705fe9f589306 = L.marker(
+                [10.791514, 122.104179],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_8c8428fdc5e041158b81c1a99137c069 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6c34cee5a5664244b5f6a745f1c8b264 = $(`<div id="html_6c34cee5a5664244b5f6a745f1c8b264" style="width: 100.0%; height: 100.0%;">Date:<br>2020-03-02<br>Sightings:<br>27</div>`)[0];
+            popup_8c8428fdc5e041158b81c1a99137c069.setContent(html_6c34cee5a5664244b5f6a745f1c8b264);
+        
+
+        marker_833a255b4abc4074867705fe9f589306.bindPopup(popup_8c8428fdc5e041158b81c1a99137c069)
+        ;
+
+        
+    
+    
+            marker_833a255b4abc4074867705fe9f589306.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_7c56b4feb81242c2a871a40491c97a69 = L.marker(
+                [10.804935, 122.14294],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_ac227d2ac2a8434288ed85a0e0332f62 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_5f4484eef05b413cb19e7a284bb4ea1f = $(`<div id="html_5f4484eef05b413cb19e7a284bb4ea1f" style="width: 100.0%; height: 100.0%;">Date:<br>2020-04-06<br>Sightings:<br>26</div>`)[0];
+            popup_ac227d2ac2a8434288ed85a0e0332f62.setContent(html_5f4484eef05b413cb19e7a284bb4ea1f);
+        
+
+        marker_7c56b4feb81242c2a871a40491c97a69.bindPopup(popup_ac227d2ac2a8434288ed85a0e0332f62)
+        ;
+
+        
+    
+    
+            marker_7c56b4feb81242c2a871a40491c97a69.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_f207f6743eed4f2bb1c72368b53115ba = L.marker(
+                [10.793396, 122.111006],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_f9482b37bc5e49d0a86fac8fcdc25f28 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_55bc753eec114fcb886cb2193030ef34 = $(`<div id="html_55bc753eec114fcb886cb2193030ef34" style="width: 100.0%; height: 100.0%;">Date:<br>2020-05-04<br>Sightings:<br>16</div>`)[0];
+            popup_f9482b37bc5e49d0a86fac8fcdc25f28.setContent(html_55bc753eec114fcb886cb2193030ef34);
+        
+
+        marker_f207f6743eed4f2bb1c72368b53115ba.bindPopup(popup_f9482b37bc5e49d0a86fac8fcdc25f28)
+        ;
+
+        
+    
+    
+            marker_f207f6743eed4f2bb1c72368b53115ba.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_beb318927b454f108fa5e7da3386fc59 = L.marker(
+                [10.78731, 122.104683],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_e7ca79a57c3042c29c54ca27de0588cf = L.popup({"maxWidth": "100%"});
+
+        
+            var html_286b0411ed2742bebd1db92106925e20 = $(`<div id="html_286b0411ed2742bebd1db92106925e20" style="width: 100.0%; height: 100.0%;">Date:<br>2020-06-01<br>Sightings:<br>27</div>`)[0];
+            popup_e7ca79a57c3042c29c54ca27de0588cf.setContent(html_286b0411ed2742bebd1db92106925e20);
+        
+
+        marker_beb318927b454f108fa5e7da3386fc59.bindPopup(popup_e7ca79a57c3042c29c54ca27de0588cf)
+        ;
+
+        
+    
+    
+            marker_beb318927b454f108fa5e7da3386fc59.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_32bda45adb24428d969ad1eca1393ee9 = L.marker(
+                [10.803938, 122.142847],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_f1ed545e2343433691e90bf14fe819af = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c109c28e2e914ff3bf17100571e761a1 = $(`<div id="html_c109c28e2e914ff3bf17100571e761a1" style="width: 100.0%; height: 100.0%;">Date:<br>2020-07-06<br>Sightings:<br>23</div>`)[0];
+            popup_f1ed545e2343433691e90bf14fe819af.setContent(html_c109c28e2e914ff3bf17100571e761a1);
+        
+
+        marker_32bda45adb24428d969ad1eca1393ee9.bindPopup(popup_f1ed545e2343433691e90bf14fe819af)
+        ;
+
+        
+    
+    
+            marker_32bda45adb24428d969ad1eca1393ee9.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_78acd537114f48209f172ca5fee56054 = L.marker(
+                [10.790511, 122.104073],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_b2a61ce893124b358b62cfe3f0bc9b84 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_cd385c38a12143659b9a163900de6db6 = $(`<div id="html_cd385c38a12143659b9a163900de6db6" style="width: 100.0%; height: 100.0%;">Date:<br>2020-08-06<br>Sightings:<br>25</div>`)[0];
+            popup_b2a61ce893124b358b62cfe3f0bc9b84.setContent(html_cd385c38a12143659b9a163900de6db6);
+        
+
+        marker_78acd537114f48209f172ca5fee56054.bindPopup(popup_b2a61ce893124b358b62cfe3f0bc9b84)
+        ;
+
+        
+    
+    
+            marker_78acd537114f48209f172ca5fee56054.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_0e2544d217664c28ae5dad214e971a37 = L.marker(
+                [10.803937, 122.14284],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_f6e26ebb7de446c8a983acce3fb6ca8e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_7edf47281f5141ae91d2d67d2d7f43e1 = $(`<div id="html_7edf47281f5141ae91d2d67d2d7f43e1" style="width: 100.0%; height: 100.0%;">Date:<br>2020-09-03<br>Sightings:<br>24</div>`)[0];
+            popup_f6e26ebb7de446c8a983acce3fb6ca8e.setContent(html_7edf47281f5141ae91d2d67d2d7f43e1);
+        
+
+        marker_0e2544d217664c28ae5dad214e971a37.bindPopup(popup_f6e26ebb7de446c8a983acce3fb6ca8e)
+        ;
+
+        
+    
+    
+            marker_0e2544d217664c28ae5dad214e971a37.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_941e62f96a3f4de288a15b2dcca6346e = L.marker(
+                [10.793294, 122.110009],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_d3c5b362495447e78eda9f68b600dc7c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1a19ccb2cabb4d37bed81da4ae56b870 = $(`<div id="html_1a19ccb2cabb4d37bed81da4ae56b870" style="width: 100.0%; height: 100.0%;">Date:<br>2020-10-05<br>Sightings:<br>22</div>`)[0];
+            popup_d3c5b362495447e78eda9f68b600dc7c.setContent(html_1a19ccb2cabb4d37bed81da4ae56b870);
+        
+
+        marker_941e62f96a3f4de288a15b2dcca6346e.bindPopup(popup_d3c5b362495447e78eda9f68b600dc7c)
+        ;
+
+        
+    
+    
+            marker_941e62f96a3f4de288a15b2dcca6346e.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_f0359244be984240bfb3f643ae78f9fe = L.marker(
+                [10.803934, 122.142845],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_8419bcdc15644e5a90a1e9a579511049 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_bbdcd9e4e0934939a8f5ad22e0bd704b = $(`<div id="html_bbdcd9e4e0934939a8f5ad22e0bd704b" style="width: 100.0%; height: 100.0%;">Date:<br>2020-11-09<br>Sightings:<br>24</div>`)[0];
+            popup_8419bcdc15644e5a90a1e9a579511049.setContent(html_bbdcd9e4e0934939a8f5ad22e0bd704b);
+        
+
+        marker_f0359244be984240bfb3f643ae78f9fe.bindPopup(popup_8419bcdc15644e5a90a1e9a579511049)
+        ;
+
+        
+    
+    
+            marker_f0359244be984240bfb3f643ae78f9fe.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_dd1bd68d749f4057872d6b067b4b23fb = L.marker(
+                [10.793293, 122.110003],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_0de44bda75304f9cb8d998b2ff436e83 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b5616142a29a4598b68f5e25ea2d3956 = $(`<div id="html_b5616142a29a4598b68f5e25ea2d3956" style="width: 100.0%; height: 100.0%;">Date:<br>2020-12-07<br>Sightings:<br>21</div>`)[0];
+            popup_0de44bda75304f9cb8d998b2ff436e83.setContent(html_b5616142a29a4598b68f5e25ea2d3956);
+        
+
+        marker_dd1bd68d749f4057872d6b067b4b23fb.bindPopup(popup_0de44bda75304f9cb8d998b2ff436e83)
+        ;
+
+        
+    
+    
+            marker_dd1bd68d749f4057872d6b067b4b23fb.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_9459ad5d65b6490cbe42106306acaa8c = L.marker(
+                [10.78711, 122.104687],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_a93f96d7ccd940d088adf28285669133 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8322f1c5d9bd4351b8292e4e80e4a90b = $(`<div id="html_8322f1c5d9bd4351b8292e4e80e4a90b" style="width: 100.0%; height: 100.0%;">Date:<br>2021-01-10<br>Sightings:<br>19</div>`)[0];
+            popup_a93f96d7ccd940d088adf28285669133.setContent(html_8322f1c5d9bd4351b8292e4e80e4a90b);
+        
+
+        marker_9459ad5d65b6490cbe42106306acaa8c.bindPopup(popup_a93f96d7ccd940d088adf28285669133)
+        ;
+
+        
+    
+    
+            marker_9459ad5d65b6490cbe42106306acaa8c.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6483685fcffa42908892fcbdb073ee1a = L.marker(
+                [10.793291, 122.110006],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_1d42f1b3a27b4e5c8db4d19990565543 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9b94be65345c4d669c38337db05693b2 = $(`<div id="html_9b94be65345c4d669c38337db05693b2" style="width: 100.0%; height: 100.0%;">Date:<br>2021-02-04<br>Sightings:<br>20</div>`)[0];
+            popup_1d42f1b3a27b4e5c8db4d19990565543.setContent(html_9b94be65345c4d669c38337db05693b2);
+        
+
+        marker_6483685fcffa42908892fcbdb073ee1a.bindPopup(popup_1d42f1b3a27b4e5c8db4d19990565543)
+        ;
+
+        
+    
+    
+            marker_6483685fcffa42908892fcbdb073ee1a.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_d099cc15cb2341b1951ce9d278d5c093 = L.marker(
+                [10.80393, 122.142844],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_89b987a47ee1468ab3dff35792557fc9 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_d93767a15534423385fbc5c34ed34f32 = $(`<div id="html_d93767a15534423385fbc5c34ed34f32" style="width: 100.0%; height: 100.0%;">Date:<br>2021-03-03<br>Sightings:<br>17</div>`)[0];
+            popup_89b987a47ee1468ab3dff35792557fc9.setContent(html_d93767a15534423385fbc5c34ed34f32);
+        
+
+        marker_d099cc15cb2341b1951ce9d278d5c093.bindPopup(popup_89b987a47ee1468ab3dff35792557fc9)
+        ;
+
+        
+    
+    
+            marker_d099cc15cb2341b1951ce9d278d5c093.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_0d21bbc6d37648ebb7b9ae4490536f13 = L.marker(
+                [10.793299, 122.110008],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_8e35c8761c884a74b07272273fd4eb12 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a5935ec51e4546b4b917a370330e656c = $(`<div id="html_a5935ec51e4546b4b917a370330e656c" style="width: 100.0%; height: 100.0%;">Date:<br>2021-04-07<br>Sightings:<br>15</div>`)[0];
+            popup_8e35c8761c884a74b07272273fd4eb12.setContent(html_a5935ec51e4546b4b917a370330e656c);
+        
+
+        marker_0d21bbc6d37648ebb7b9ae4490536f13.bindPopup(popup_8e35c8761c884a74b07272273fd4eb12)
+        ;
+
+        
+    
+    
+            marker_0d21bbc6d37648ebb7b9ae4490536f13.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_07fd8b0857104e38ae30a74c5b2c3676 = L.marker(
+                [10.787316, 122.104886],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_65dcfe18948d4f168f1cbb2b8b54b0f9 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c18650d58f6a4ba29c3b0a3a62d56c59 = $(`<div id="html_c18650d58f6a4ba29c3b0a3a62d56c59" style="width: 100.0%; height: 100.0%;">Date:<br>2021-05-05<br>Sightings:<br>18</div>`)[0];
+            popup_65dcfe18948d4f168f1cbb2b8b54b0f9.setContent(html_c18650d58f6a4ba29c3b0a3a62d56c59);
+        
+
+        marker_07fd8b0857104e38ae30a74c5b2c3676.bindPopup(popup_65dcfe18948d4f168f1cbb2b8b54b0f9)
+        ;
+
+        
+    
+    
+            marker_07fd8b0857104e38ae30a74c5b2c3676.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_0ff89916ac14437b834b097d5d1fe055 = L.marker(
+                [10.803076, 122.143548],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_37d6c4f2fcf94d19846f7df98461c4fb = L.popup({"maxWidth": "100%"});
+
+        
+            var html_476b41485b5c4b509847afd12ceb246b = $(`<div id="html_476b41485b5c4b509847afd12ceb246b" style="width: 100.0%; height: 100.0%;">Date:<br>2021-06-02<br>Sightings:<br>19</div>`)[0];
+            popup_37d6c4f2fcf94d19846f7df98461c4fb.setContent(html_476b41485b5c4b509847afd12ceb246b);
+        
+
+        marker_0ff89916ac14437b834b097d5d1fe055.bindPopup(popup_37d6c4f2fcf94d19846f7df98461c4fb)
+        ;
+
+        
+    
+    
+            marker_0ff89916ac14437b834b097d5d1fe055.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_e7f79724fbf546f29f180c3c86fdee5a = L.marker(
+                [10.790516, 122.104072],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_d7df1e2c99d546b991af4c5c6df75b94 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_338f15a53d86458c860007f7de0c597d = $(`<div id="html_338f15a53d86458c860007f7de0c597d" style="width: 100.0%; height: 100.0%;">Date:<br>2021-07-08<br>Sightings:<br>17</div>`)[0];
+            popup_d7df1e2c99d546b991af4c5c6df75b94.setContent(html_338f15a53d86458c860007f7de0c597d);
+        
+
+        marker_e7f79724fbf546f29f180c3c86fdee5a.bindPopup(popup_d7df1e2c99d546b991af4c5c6df75b94)
+        ;
+
+        
+    
+    
+            marker_e7f79724fbf546f29f180c3c86fdee5a.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_b845a4d07e7c4d75a02b018bd1ad3b86 = L.marker(
+                [10.803931, 122.142845],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_f82544fa9e1643ec8d38bc9a864bceb6 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_20134905f3df46e391dc369daf2078de = $(`<div id="html_20134905f3df46e391dc369daf2078de" style="width: 100.0%; height: 100.0%;">Date:<br>2021-08-08<br>Sightings:<br>20</div>`)[0];
+            popup_f82544fa9e1643ec8d38bc9a864bceb6.setContent(html_20134905f3df46e391dc369daf2078de);
+        
+
+        marker_b845a4d07e7c4d75a02b018bd1ad3b86.bindPopup(popup_f82544fa9e1643ec8d38bc9a864bceb6)
+        ;
+
+        
+    
+    
+            marker_b845a4d07e7c4d75a02b018bd1ad3b86.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_a1502b200e1841eba4f80b3cd3ca7c5c = L.marker(
+                [10.793298, 122.110005],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_22ebac8144fd462f918db61010510dda = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ef4bdd1218014b54a2895a6f43926b8f = $(`<div id="html_ef4bdd1218014b54a2895a6f43926b8f" style="width: 100.0%; height: 100.0%;">Date:<br>2021-09-04<br>Sightings:<br>24</div>`)[0];
+            popup_22ebac8144fd462f918db61010510dda.setContent(html_ef4bdd1218014b54a2895a6f43926b8f);
+        
+
+        marker_a1502b200e1841eba4f80b3cd3ca7c5c.bindPopup(popup_22ebac8144fd462f918db61010510dda)
+        ;
+
+        
+    
+    
+            marker_a1502b200e1841eba4f80b3cd3ca7c5c.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_f5c7b90f70b84098a51ccc2b7a462289 = L.marker(
+                [10.787316, 122.104687],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_c4ffeac210ad4878a9dc0b47f7989799 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_836b520880904bfa98a7f0f05418f376 = $(`<div id="html_836b520880904bfa98a7f0f05418f376" style="width: 100.0%; height: 100.0%;">Date:<br>2021-10-06<br>Sightings:<br>25</div>`)[0];
+            popup_c4ffeac210ad4878a9dc0b47f7989799.setContent(html_836b520880904bfa98a7f0f05418f376);
+        
+
+        marker_f5c7b90f70b84098a51ccc2b7a462289.bindPopup(popup_c4ffeac210ad4878a9dc0b47f7989799)
+        ;
+
+        
+    
+    
+            marker_f5c7b90f70b84098a51ccc2b7a462289.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_403cba06273d49d8bedafba79bcce91e = L.marker(
+                [10.803932, 122.142444],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_95dfc87335a54036b0bda737c7835756 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_05473306ec7e438ba349f1356f5a285f = $(`<div id="html_05473306ec7e438ba349f1356f5a285f" style="width: 100.0%; height: 100.0%;">Date:<br>2021-11-08<br>Sightings:<br>12</div>`)[0];
+            popup_95dfc87335a54036b0bda737c7835756.setContent(html_05473306ec7e438ba349f1356f5a285f);
+        
+
+        marker_403cba06273d49d8bedafba79bcce91e.bindPopup(popup_95dfc87335a54036b0bda737c7835756)
+        ;
+
+        
+    
+    
+            marker_403cba06273d49d8bedafba79bcce91e.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_4a2be0744ed74d168630b97a54151334 = L.marker(
+                [10.790516, 122.104078],
+                {}
+            ).addTo(map_14702c6846794a0daf7b538e1c17f2c6);
+        
+    
+        var popup_ffd52a0c333541d1bf65894ffde4bbe5 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9b867ede006246bd9765cc27359e3a95 = $(`<div id="html_9b867ede006246bd9765cc27359e3a95" style="width: 100.0%; height: 100.0%;">Date:<br>2021-12-08<br>Sightings:<br>11</div>`)[0];
+            popup_ffd52a0c333541d1bf65894ffde4bbe5.setContent(html_9b867ede006246bd9765cc27359e3a95);
+        
+
+        marker_4a2be0744ed74d168630b97a54151334.bindPopup(popup_ffd52a0c333541d1bf65894ffde4bbe5)
+        ;
+
+        
+    
+    
+            marker_4a2be0744ed74d168630b97a54151334.bindTooltip(
+                `<div>
+                     Raflesia speciosa (Panay Rafflesia)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>

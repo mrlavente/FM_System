@@ -1,0 +1,580 @@
+,report_id,species_name,date_report,location,site,no_observation,mode_observation,threats,remarks,name_observers,coordinates_lat,coordinates_lng
+0,1,Raflesia speciosa (Panay Rafflesia),2016-01-04,"Sibalom, Antique",Brgy. Imparayan,15,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.78731,122.104682
+1,2,Aceros waldeni (Visayan Writhed Hornbill),2016-01-11,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",7,Seen,Loss of Habitat,Seen at BMS site,IP leaders,10.802552,122.143548
+2,3,Aceros waldeni (Visayan Writhed Hornbill),2016-01-12,"Madalag, Aklan",Brgy. Maria Cristina,10,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.527735,122.222124
+3,4,Aceros waldeni (Visayan Writhed Hornbill),2016-01-18,"Ibajay, Aklan",Brgy. Capataga,17,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.810623,122.170098
+4,5,Sus cebifrons (Visayan Warty Pig),2016-01-25,"Malinao, Aklan",Brgy. Aparicio,13,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.616397,122.222456
+5,6,Aceros waldeni (Visayan Writhed Hornbill),2016-01-12,"Lambunao, Iloilo",Brgy. Jayubo,12,Heard & Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,11.100154,122.419851
+6,7,Rusa alfredi (Visayan Spotted Deer),2016-01-18,"Lambunao, Iloilo",Brgy. Cabatangan,21,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.089169,122.358373
+7,8,Sus cebifrons (Visayan Warty Pig),2016-01-25,"Lambunao, Iloilo",Brgy. Jayubo,12,Heard & Seen,Loss of Habitat,Seen in the forested area,Bantay Gubat,11.101635,122.409653
+8,9,Raflesia speciosa (Panay Rafflesia),2016-02-01,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",12,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.803071,122.143549
+9,10,Aceros waldeni (Visayan Writhed Hornbill),2016-02-15,"Sibalom, Antique",Brgy. Imparayan,12,Seen,Hunting,Seen at the tree tops,Cenro Staff,10.794476,122.111122
+10,11,Aceros waldeni (Visayan Writhed Hornbill),2016-02-09,"Madalag, Aklan",Maria Cristina,15,Heard & Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,11.516634,122.22449
+11,12,Rusa alfredi (Visayan Spotted Deer),2016-02-15,"Ibajay, Aklan",Capataga,19,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.809069,122.170226
+12,13,Sus cebifrons (Visayan Warty Pig),2016-02-22,"Malinao, Aklan",Aparicio,13,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.623459,122.201843
+13,14,Aceros waldeni (Visayan Writhed Hornbill),2016-02-09,"Lambunao, Iloilo",Brgy. Cabatangan,14,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.087316,122.359152
+14,15,Rusa alfredi (Visayan Spotted Deer),2016-02-15,"Lambunao, Iloilo",Jayubo,21,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.100541,122.405825
+15,16,Sus cebifrons (Visayan Warty Pig),2016-02-22,"Lambunao, Iloilo",Brgy. Cabatangan,15,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.086391,122.358378
+16,17,Raflesia speciosa (Panay Rafflesia),2016-03-07,"Sibalom, Antique",Brgy. Imparayan,14,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.790514,122.104079
+17,18,Aceros waldeni (Visayan Writhed Hornbill),2016-03-21,"Sibalom, Antique",Brgy. Imparayan,12,Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,10.791441,122.107
+18,19,Aceros waldeni (Visayan Writhed Hornbill),2016-03-08,"Lambunao, Iloilo",Jayubo,14,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.102224,122.407334
+19,20,Rusa alfredi (Visayan Spotted Deer),2016-03-14,"Lambunao, Iloilo",Brgy. Cabatangan,20,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.088748,122.356488
+20,21,Sus cebifrons (Visayan Warty Pig),2016-03-21,"Lambunao, Iloilo",Jayubo,13,Heard & Seen,Loss of Habitat,seen in the area of jayubo,Bantay Gubat,11.103572,122.405788
+21,22,Aceros waldeni (Visayan Writhed Hornbill),2016-03-08,"Madalag, Aklan",Maria Cristina,15,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.512261,122.224834
+22,23,Rusa alfredi (Visayan Spotted Deer),2016-03-14,"Ibajay, Aklan",Capataga,14,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.816168,122.17349
+23,24,Sus cebifrons (Visayan Warty Pig),2016-03-21,"Malinao, Aklan",Aparicio,11,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.616061,122.198407
+24,25,Raflesia speciosa (Panay Rafflesia),2016-04-04,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",16,Seen,Hunting,Seen at BMS site,Cenro Staff,10.803935,122.142841
+25,26,Aceros waldeni (Visayan Writhed Hornbill),2016-04-18,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",16,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.803703,122.143034
+26,27,Aceros waldeni (Visayan Writhed Hornbill),2016-04-05,"Lambunao, Iloilo",Brgy. Cabatangan,14,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.086727,122.356488
+27,28,Rusa alfredi (Visayan Spotted Deer),2016-04-11,"Lambunao, Iloilo",Jayubo,20,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.050191,122.344636
+28,29,Sus cebifrons (Visayan Warty Pig),2016-04-18,"Lambunao, Iloilo",Brgy. Cabatangan,10,Heard & Seen,Loss of Habitat,seen at the area of cabatangan,Bantay Gubat,11.089253,122.354342
+29,30,Aceros waldeni (Visayan Writhed Hornbill),2016-04-05,"Madalag, Aklan",Maria Cristina,15,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.508224,122.227237
+30,31,Rusa alfredi (Visayan Spotted Deer),2016-04-11,"Ibajay, Aklan",Capataga,23,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.815748,122.174479
+31,32,Sus cebifrons (Visayan Warty Pig),2016-04-18,"Malinao, Aklan",Aparicio,8,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.593192,122.223879
+32,33,Raflesia speciosa (Panay Rafflesia),2016-05-02,"Sibalom, Antique",Brgy. Imparayan,16,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.793296,122.110007
+33,34,Aceros waldeni (Visayan Writhed Hornbill),2016-05-16,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",14,Seen,Loss of Habitat,Seen at BMS site,Cenro Staff,10.803071,122.143549
+34,35,Aceros waldeni (Visayan Writhed Hornbill),2016-05-10,"Lambunao, Iloilo",Jayubo,13,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.103825,122.405358
+35,36,Rusa alfredi (Visayan Spotted Deer),2016-05-16,"Lambunao, Iloilo",Brgy. Cabatangan,20,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.091022,122.355716
+36,37,Sus cebifrons (Visayan Warty Pig),2016-05-23,"Lambunao, Iloilo",Jayubo,9,Heard & Seen,Loss of Habitat,seen at the area of cabatangan,Bantay Gubat,11.103488,122.403898
+37,38,Aceros waldeni (Visayan Writhed Hornbill),2016-05-10,"Madalag, Aklan",Maria Cristina,12,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.513943,122.214191
+38,39,Rusa alfredi (Visayan Spotted Deer),2016-05-16,"Ibajay, Aklan",Capataga,23,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.811631,122.172504
+39,40,Sus cebifrons (Visayan Warty Pig),2016-05-23,"Malinao, Aklan",Aparicio,7,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.596892,122.212493
+40,41,Raflesia speciosa (Panay Rafflesia),2016-06-06,"Sibalom, Antique",Brgy. Imparayan,18,Seen,Loss of Habitat,Seen at BMS site,IP leaders,10.787312,122.104682
+41,42,Aceros waldeni (Visayan Writhed Hornbill),2016-06-20,"Sibalom, Antique",Brgy. Imparayan,14,Seen,Loss of Habitat,Seen at the tree tops,Bantay Gubat,10.794476,122.111123
+42,43,Aceros waldeni (Visayan Writhed Hornbill),2016-06-14,"Lambunao, Iloilo",Brgy. Cabatangan,13,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.091443,122.355913
+43,44,Rusa alfredi (Visayan Spotted Deer),2016-06-20,"Lambunao, Iloilo",Jayubo,20,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.103826,122.402697
+44,45,Sus cebifrons (Visayan Warty Pig),2016-06-14,"Lambunao, Iloilo",Brgy. Cabatangan,5,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.092982,122.342918
+45,46,Aceros waldeni (Visayan Writhed Hornbill),2016-06-14,"Madalag, Aklan",Maria Cristina,12,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.516634,122.206637
+46,47,Rusa alfredi (Visayan Spotted Deer),2016-06-20,"Ibajay, Aklan",Capataga,23,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.811308,122.171522
+47,48,Sus cebifrons (Visayan Warty Pig),2016-06-14,"Malinao, Aklan",Aparicio,8,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.624397,122.20085
+48,49,Raflesia speciosa (Panay Rafflesia),2016-07-04,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",22,Seen,Loss of Habitat,Seen at BMS site,Cenro Staff,10.803936,122.142841
+49,50,Aceros waldeni (Visayan Writhed Hornbill),2016-07-18,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",20,Seen,Loss of Habitat,Seen at BMS site,IP leaders,10.803977,122.143206
+50,51,Aceros waldeni (Visayan Writhed Hornbill),2016-07-12,"Lambunao, Iloilo",Jayubo,23,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.103741,122.401151
+51,52,Rusa alfredi (Visayan Spotted Deer),2016-07-18,"Lambunao, Iloilo",Brgy. Cabatangan,20,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.089423,122.353226
+52,53,Sus cebifrons (Visayan Warty Pig),2016-07-26,"Lambunao, Iloilo",Jayubo,6,Heard & Seen,Loss of Habitat,seen at the area of cabatangan,Bantay Gubat,11.101804,122.401667
+53,54,Aceros waldeni (Visayan Writhed Hornbill),2016-07-12,"Madalag, Aklan",Maria Cristina,22,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.512934,122.212817
+54,55,Rusa alfredi (Visayan Spotted Deer),2016-07-18,"Ibajay, Aklan",Capataga,14,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.809942,122.170577
+55,56,Sus cebifrons (Visayan Warty Pig),2016-07-26,"Malinao, Aklan",Aparicio,5,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.591847,122.219707
+56,57,Raflesia speciosa (Panay Rafflesia),2016-08-01,"Sibalom, Antique",Brgy. Imparayan,24,Seen,Loss of Habitat,Seen at BMS site,IP leaders,10.790514,122.104079
+57,58,Aceros waldeni (Visayan Writhed Hornbill),2016-08-15,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",20,Seen,Loss of Habitat,Seen at BMS site,Cenro Staff,10.803261,122.144557
+58,59,Aceros waldeni (Visayan Writhed Hornbill),2016-08-08,"Lambunao, Iloilo",Brgy. Cabatangan,19,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.086391,122.354428
+59,60,Rusa alfredi (Visayan Spotted Deer),2016-08-15,"Lambunao, Iloilo",Jayubo,20,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.100542,122.402868
+60,61,Sus cebifrons (Visayan Warty Pig),2016-08-22,"Lambunao, Iloilo",Brgy. Cabatangan,6,Heard & Seen,Loss of Habitat,seen at the area of cabatangan,Bantay Gubat,11.085716,122.354858
+61,62,Aceros waldeni (Visayan Writhed Hornbill),2016-08-08,"Madalag, Aklan",Maria Cristina,18,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.516971,122.202518
+62,63,Rusa alfredi (Visayan Spotted Deer),2016-08-15,"Ibajay, Aklan",Capataga,25,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.810152,122.172124
+63,64,Sus cebifrons (Visayan Warty Pig),2016-08-22,"Malinao, Aklan",Aparicio,6,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.602946,122.201499
+64,65,Raflesia speciosa (Panay Rafflesia),2016-09-05,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",22,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.803935,122.142841
+65,66,Aceros waldeni (Visayan Writhed Hornbill),2016-09-19,"Sibalom, Antique",Brgy. Imparayan,22,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.803936,122.142842
+66,67,Aceros waldeni (Visayan Writhed Hornbill),2016-09-13,"Lambunao, Iloilo",Jayubo,19,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.100204,122.403814
+67,68,Rusa alfredi (Visayan Spotted Deer),2016-09-19,"Lambunao, Iloilo",Brgy. Cabatangan,36,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.084538,122.354943
+68,69,Sus cebifrons (Visayan Warty Pig),2016-09-26,"Lambunao, Iloilo",Jayubo,7,Heard & Seen,Loss of Habitat,seen at the area of cabatangan,Bantay Gubat,11.099788,122.401151
+69,70,Aceros waldeni (Visayan Writhed Hornbill),2016-09-13,"Madalag, Aklan",Maria Cristina,13,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.520671,122.199084
+70,71,Rusa alfredi (Visayan Spotted Deer),2016-09-19,"Ibajay, Aklan",Capataga,25,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.810089,122.171051
+71,72,Sus cebifrons (Visayan Warty Pig),2016-09-26,"Malinao, Aklan",Aparicio,6,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.590502,122.195315
+72,73,Raflesia speciosa (Panay Rafflesia),2016-10-03,"Sibalom, Antique",Brgy. Imparayan,15,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.791442,122.107001
+73,74,Aceros waldeni (Visayan Writhed Hornbill),2016-10-17,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",8,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.793297,122.110007
+74,75,Aceros waldeni (Visayan Writhed Hornbill),2016-10-04,"Lambunao, Iloilo",Brgy. Cabatangan,9,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.084116,122.354256
+75,76,Rusa alfredi (Visayan Spotted Deer),2016-10-10,"Lambunao, Iloilo",Jayubo,26,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.099362,122.402612
+76,77,Sus cebifrons (Visayan Warty Pig),2016-10-17,"Lambunao, Iloilo",Brgy. Cabatangan,5,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.089591,122.344376
+77,78,Aceros waldeni (Visayan Writhed Hornbill),2016-10-04,"Madalag, Aklan",Maria Cristina,9,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.513943,122.202861
+78,79,Rusa alfredi (Visayan Spotted Deer),2016-10-10,"Ibajay, Aklan",Capataga,13,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.80843,122.17075
+79,80,Sus cebifrons (Visayan Warty Pig),2016-10-17,"Malinao, Aklan",Aparicio,6,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.582094,122.193597
+80,81,Raflesia speciosa (Panay Rafflesia),2016-11-07,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",11,Seen,Loss of Habitat,Seen at BMS site,Cenro Staff,10.803472,122.142326
+81,82,Aceros waldeni (Visayan Writhed Hornbill),2016-11-21,"Sibalom, Antique",Brgy. Imparayan,8,Seen,Hunting,Seen at BMS site,Bantay Gubat,10.803936,122.142841
+82,83,Aceros waldeni (Visayan Writhed Hornbill),2016-11-15,"Lambunao, Iloilo",Jayubo,10,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.100541,122.400121
+83,84,Rusa alfredi (Visayan Spotted Deer),2016-11-21,"Lambunao, Iloilo",Brgy. Cabatangan,26,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.089844,122.342916
+84,85,Sus cebifrons (Visayan Warty Pig),2016-11-28,"Lambunao, Iloilo",Jayubo,7,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.095457,122.399519
+85,86,Aceros waldeni (Visayan Writhed Hornbill),2016-11-15,"Madalag, Aklan",Maria Cristina,8,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.520671,122.193248
+86,87,Rusa alfredi (Visayan Spotted Deer),2016-11-23,"Ibajay, Aklan",Capataga,25,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.809228,122.173585
+87,88,Sus cebifrons (Visayan Warty Pig),2016-11-28,"Malinao, Aklan",Aparicio,8,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.619088,122.212836
+88,89,Raflesia speciosa (Panay Rafflesia),2016-12-05,"Sibalom, Antique",Brgy. Imparayan,18,Seen,Loss of Habitat,22 healthy and 2 decayed buds,Bantay Gubat,10.793296,122.110006
+89,90,Aceros waldeni (Visayan Writhed Hornbill),2016-12-19,"Sibalom, Antique",Brgy. Cabladan,8,Heard & Seen,Hunting,seen at BMS site,Bantay Gubat,10.803703,122.143034
+90,91,Aceros waldeni (Visayan Writhed Hornbill),2016-12-06,"Lambunao, Iloilo",Brgy. Cabatangan,10,Heard & Seen,Loss of Habitat,Were seen and heard at forested area bear the waterfalls,Cenro Staff,11.089338,122.341197
+91,92,Rusa alfredi (Visayan Spotted Deer),2016-12-12,"Lambunao, Iloilo",Jayubo,26,Heard & Seen,Hunting,Were seen at the BMS site,IP leaders,11.106941,122.402696
+92,93,Sus cebifrons (Visayan Warty Pig),2016-12-19,"Lambunao, Iloilo",Brgy. Cabatangan,9,Heard & Seen,Hunting,Seen at the mountains of Cabtangan,IP leaders,11.09178,122.343087
+93,94,Aceros waldeni (Visayan Writhed Hornbill),2016-12-06,"Madalag, Aklan",Brgy. Maria Cristina,12,Heard & Seen,Loss of Habitat,were seen near the cultivated lots,Cenro Staff,11.507888,122.233073
+94,95,Rusa alfredi (Visayan Spotted Deer),2016-12-12,"Ibajay, Aklan",Capataga,30,Heard & Seen,Hunting,seen at the NPPNP,PA Personnel and Staff,11.809417,122.174422
+95,96,Sus cebifrons (Visayan Warty Pig),2016-12-19,"Malinao, Aklan",Aparicio,7,Heard & Seen,Hunting,Seen feeding in the forest undergrowth,Bantay Gubat,11.627831,122.210431
+96,97,Raflesia speciosa (Panay Rafflesia),2017-01-02,"Sibalom, Antique",Brgy. Imparayan,19,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.787312,122.104682
+97,98,Aceros waldeni (Visayan Writhed Hornbill),2017-01-16,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",11,Seen,Hunting,Seen at the tree tops,IP leaders,10.802552,122.143549
+98,99,Aceros waldeni (Visayan Writhed Hornbill),2017-01-10,"Lambunao, Iloilo",Brgy. Jayubo,14,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.100155,122.419852
+99,100,Rusa alfredi (Visayan Spotted Deer),2017-01-16,"Lambunao, Iloilo",Brgy. Cabatangan,21,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.059963,122.377617
+100,101,Sus cebifrons (Visayan Warty Pig),2017-01-23,"Lambunao, Iloilo",Brgy. Jayubo,15,Heard & Seen,Hunting,Seen in the area of Jayubo,Bantay Gubat,11.101636,122.409654
+101,102,Aceros waldeni (Visayan Writhed Hornbill),2017-01-10,"Madalag, Aklan",Brgy. Maria Cristina,12,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.503178,122.23273
+102,103,Rusa alfredi (Visayan Spotted Deer),2017-01-16,"Ibajay, Aklan",Brgy. Capataga,30,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.808031,122.173606
+103,104,Rusa alfredi (Visayan Spotted Deer),2017-01-16,"Ibajay, Aklan",Brgy. Capataga,15,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.807107,122.174236
+104,105,Sus cebifrons (Visayan Warty Pig),2017-01-23,"Malinao, Aklan",Brgy. Aparicio,14,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.644342,122.305898
+105,106,Raflesia speciosa (Panay Rafflesia),2017-02-06,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",11,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.803071,122.14355
+106,107,Aceros waldeni (Visayan Writhed Hornbill),2017-02-13,"Sibalom, Antique",Brgy. Imparayan,13,Seen,Hunting,Seen at the tree tops,Cenro Staff,10.794477,122.111124
+107,108,Aceros waldeni (Visayan Writhed Hornbill),2017-02-07,"Lambunao, Iloilo",Brgy. Cabatangan,14,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.087316,122.359151
+108,109,Rusa alfredi (Visayan Spotted Deer),2017-02-13,"Lambunao, Iloilo",Brgy. Jayubo,21,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.100545,122.405826
+109,110,Sus cebifrons (Visayan Warty Pig),2017-02-20,"Lambunao, Iloilo",Brgy. Cabatangan,12,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.086391,122.358379
+110,111,Aceros waldeni (Visayan Writhed Hornbill),2017-02-07,"Madalag, Aklan",Brgy. Maria Cristina,16,Heard & Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,11.498131,122.236163
+111,112,Rusa alfredi (Visayan Spotted Deer),2017-02-13,"Ibajay, Aklan",Brgy. Capataga,15,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.805952,122.173928
+112,113,Sus cebifrons (Visayan Warty Pig),2017-02-20,"Malinao, Aklan",Brgy. Aparicio,11,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.644363,122.305965
+113,114,Raflesia speciosa (Panay Rafflesia),2017-03-06,"Sibalom, Antique",Brgy. Imparayan,12,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.790514,122.104079
+114,115,Aceros waldeni (Visayan Writhed Hornbill),2017-03-20,"Sibalom, Antique",Brgy. Imparayan,11,Seen,Hunting,Seen at BMS site,Cenro Staff,10.791443,122.107002
+115,116,Aceros waldeni (Visayan Writhed Hornbill),2017-03-07,"Lambunao, Iloilo",Brgy. Jayubo,13,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.102225,122.407335
+116,117,Rusa alfredi (Visayan Spotted Deer),2017-03-13,"Lambunao, Iloilo",Brgy. Cabatangan,16,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.088748,122.356489
+117,118,Sus cebifrons (Visayan Warty Pig),2017-03-20,"Lambunao, Iloilo",Brgy. Jayubo,14,Heard & Seen,Loss of Habitat,Seen in the area of Jayubo,Bantay Gubat,11.103573,122.405787
+118,119,Aceros waldeni (Visayan Writhed Hornbill),2017-03-07,"Madalag, Aklan",Brgy. Maria Cristina,15,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.489047,122.23788
+119,120,Rusa alfredi (Visayan Spotted Deer),2017-03-13,"Ibajay, Aklan",Brgy. Capataga,15,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.805742,122.175045
+120,121,Sus cebifrons (Visayan Warty Pig),2017-03-20,"Malinao, Aklan",Brgy. Aparicio,15,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.642877,122.304399
+121,122,Raflesia speciosa (Panay Rafflesia),2017-04-03,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",14,Seen,Loss of Habitat,Seen at BMS site,Cenro Staff,10.803937,122.14244
+122,123,Aceros waldeni (Visayan Writhed Hornbill),2017-04-17,"Sibalom, Antique",Brgy. Cabladan,12,Seen,Hunting,Seen at BMS site,Bantay Gubat,10.803703,122.143035
+123,124,Aceros waldeni (Visayan Writhed Hornbill),2017-05-04,"Lambunao, Iloilo",Brgy. Cabatangan,12,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.086728,122.35649
+124,125,Rusa alfredi (Visayan Spotted Deer),2017-04-10,"Lambunao, Iloilo",Brgy. Jayubo,16,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.103909,122.404757
+125,126,Sus cebifrons (Visayan Warty Pig),2017-04-17,"Lambunao, Iloilo",Brgy. Cabatangan,10,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.089254,122.354341
+126,127,Aceros waldeni (Visayan Writhed Hornbill),2017-04-04,"Madalag, Aklan",Brgy. Maria Cristina,16,Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,11.487365,122.228267
+127,128,Rusa alfredi (Visayan Spotted Deer),2017-04-10,"Ibajay, Aklan",Brgy. Capataga,15,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.806078,122.171759
+128,129,Sus cebifrons (Visayan Warty Pig),2017-04-17,"Malinao, Aklan",Brgy. Aparicio,6,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.642247,122.304914
+129,130,Raflesia speciosa (Panay Rafflesia),2017-05-08,"Sibalom, Antique",Brgy. Imparayan,16,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.793298,122.110005
+130,131,Aceros waldeni (Visayan Writhed Hornbill),2017-05-22,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",13,Seen,Hunting,Seen at the tree tops,Cenro Staff,10.803072,122.143547
+131,132,Aceros waldeni (Visayan Writhed Hornbill),2017-05-09,"Lambunao, Iloilo",Brgy. Jayubo,13,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.102825,122.405359
+132,133,Rusa alfredi (Visayan Spotted Deer),2017-05-15,"Lambunao, Iloilo",Brgy. Cabatangan,17,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.091023,122.355715
+133,134,Sus cebifrons (Visayan Warty Pig),2017-05-22,"Lambunao, Iloilo",Brgy. Jayubo,8,Heard & Seen,Loss of Habitat,seen at the area of cabatangan,Bantay Gubat,11.103489,122.403899
+134,135,Aceros waldeni (Visayan Writhed Hornbill),2017-05-09,"Madalag, Aklan",Brgy. Maria Cristina,16,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.490393,122.212474
+135,136,Rusa alfredi (Visayan Spotted Deer),2017-05-15,"Ibajay, Aklan",Brgy. Capataga,14,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.806036,122.169763
+136,137,Sus cebifrons (Visayan Warty Pig),2017-05-22,"Malinao, Aklan",Brgy. Aparicio,8,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.641615,122.304312
+137,138,Raflesia speciosa (Panay Rafflesia),2017-06-05,"Sibalom, Antique",Brgy. Imparayan,16,Seen,Loss of Habitat,Seen at BMS site,IP leaders,10.787311,122.104681
+138,139,Aceros waldeni (Visayan Writhed Hornbill),2017-06-19,"Sibalom, Antique",Brgy. Imparayan,13,Seen,Hunting,Seen at BMS site,Bantay Gubat,10.794478,122.111125
+139,140,Aceros waldeni (Visayan Writhed Hornbill),2017-06-06,"Lambunao, Iloilo",Brgy. Cabatangan,11,Heard & Seen,Hunting,Seen at the tree tops,Cenro Staff,11.091444,122.353912
+140,141,Rusa alfredi (Visayan Spotted Deer),2017-06-12,"Lambunao, Iloilo",Brgy. Jayubo,17,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.103827,122.402698
+141,142,Sus cebifrons (Visayan Warty Pig),2017-06-19,"Lambunao, Iloilo",Brgy. Cabatangan,9,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.099591,122.354168
+142,143,Raflesia speciosa (Panay Rafflesia),2017-07-03,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",24,Seen,Loss of Habitat,Seen at BMS site,Cenro Staff,10.803937,122.142843
+143,144,Aceros waldeni (Visayan Writhed Hornbill),2017-07-17,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",15,Seen,Hunting,Seen at BMS site,IP leaders,10.803978,122.143205
+144,145,Aceros waldeni (Visayan Writhed Hornbill),2017-06-06,"Madalag, Aklan",Brgy. Maria Cristina,16,Heard & Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,11.499141,122.202861
+145,146,Rusa alfredi (Visayan Spotted Deer),2017-06-12,"Ibajay, Aklan",Brgy. Capataga,16,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.808304,122.170149
+146,147,Sus cebifrons (Visayan Warty Pig),2017-06-19,"Malinao, Aklan",Brgy. Aparicio,6,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.642794,122.304141
+147,148,Aceros waldeni (Visayan Writhed Hornbill),2017-07-04,"Madalag, Aklan",Brgy. Maria Cristina,16,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.492075,122.211787
+148,149,Rusa alfredi (Visayan Spotted Deer),2017-07-10,"Ibajay, Aklan",Brgy. Capataga,16,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.807905,122.170836
+149,150,Sus cebifrons (Visayan Warty Pig),2017-07-21,"Malinao, Aklan",Brgy. Aparicio,7,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.641657,122.304013
+150,151,Aceros waldeni (Visayan Writhed Hornbill),2017-07-04,"Lambunao, Iloilo",Brgy. Jayubo,17,Heard & Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,11.103742,122.40115
+151,152,Rusa alfredi (Visayan Spotted Deer),2017-07-10,"Lambunao, Iloilo",Brgy. Cabatangan,17,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.089422,122.353225
+152,153,Sus cebifrons (Visayan Warty Pig),2017-07-21,"Lambunao, Iloilo",Brgy. Jayubo,5,Heard & Seen,Loss of Habitat,seen at the area of cabatangan,Bantay Gubat,11.101803,122.401666
+153,154,Raflesia speciosa (Panay Rafflesia),2017-08-07,"Sibalom, Antique",Brgy. Imparayan,22,Seen,Loss of Habitat,Seen at BMS site,IP leaders,10.790515,122.104078
+154,155,Aceros waldeni (Visayan Writhed Hornbill),2017-08-21,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",15,Seen,Hunting,Seen at the tree tops,Cenro Staff,10.80326,122.144558
+155,156,Aceros waldeni (Visayan Writhed Hornbill),2017-08-08,"Madalag, Aklan",Brgy. Maria Cristina,22,Heard & Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,11.489384,122.202518
+156,157,Rusa alfredi (Visayan Spotted Deer),2017-08-14,"Ibajay, Aklan",Brgy. Capataga,22,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.805742,122.173964
+157,158,Sus cebifrons (Visayan Warty Pig),2017-08-21,"Malinao, Aklan",Brgy. Aparicio,6,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.642791,122.305256
+158,159,Aceros waldeni (Visayan Writhed Hornbill),2017-08-08,"Lambunao, Iloilo",Brgy. Cabatangan,19,Heard & Seen,Hunting,Seen at the forest edges,IP leaders,11.08639,122.354427
+159,160,Rusa alfredi (Visayan Spotted Deer),2017-08-14,"Lambunao, Iloilo",Brgy. Jayubo,15,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.10054,122.402867
+160,161,Sus cebifrons (Visayan Warty Pig),2017-08-21,"Lambunao, Iloilo",Brgy. Cabatangan,5,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.085715,122.354857
+161,162,Raflesia speciosa (Panay Rafflesia),2017-09-04,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",23,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.803934,122.14284
+162,163,Aceros waldeni (Visayan Writhed Hornbill),2017-09-18,"Sibalom, Antique",Brgy. Imparayan,23,Seen,Hunting,Seen at BMS site,Bantay Gubat,10.794041,122.107003
+163,164,Aceros waldeni (Visayan Writhed Hornbill),2017-09-05,"Madalag, Aklan",Brgy. Maria Cristina,25,Heard & Seen,Hunting,Seen at the tree tops,Cenro Staff,11.411522,122.198698
+164,165,Rusa alfredi (Visayan Spotted Deer),2017-09-11,"Ibajay, Aklan",Brgy. Capataga,27,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.805091,122.175238
+165,166,Sus cebifrons (Visayan Warty Pig),2017-09-18,"Malinao, Aklan",Brgy. Aparicio,7,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.64296,122.304268
+166,167,Aceros waldeni (Visayan Writhed Hornbill),2017-09-05,"Lambunao, Iloilo",Brgy. Jayubo,18,Heard & Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,11.100203,122.403813
+167,168,Rusa alfredi (Visayan Spotted Deer),2017-09-11,"Lambunao, Iloilo",Brgy. Cabatangan,15,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.084537,122.354942
+168,169,Sus cebifrons (Visayan Warty Pig),2017-09-18,"Lambunao, Iloilo",Brgy. Jayubo,8,Heard & Seen,Loss of Habitat,seen at the area of cabatangan,Bantay Gubat,11.099782,122.401152
+169,170,Raflesia speciosa (Panay Rafflesia),2017-10-02,"Sibalom, Antique",Brgy. Imparayan,10,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.793295,122.11008
+170,171,Aceros waldeni (Visayan Writhed Hornbill),2017-10-16,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",19,Seen,Hunting,Seen at the tree tops,Cenro Staff,10.803471,122.142325
+171,172,Aceros waldeni (Visayan Writhed Hornbill),2017-10-10,"Madalag, Aklan",Brgy. Maria Cristina,8,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.511588,122.208697
+172,173,Rusa alfredi (Visayan Spotted Deer),2017-10-16,"Ibajay, Aklan",Brgy. Capataga,33,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.805006,122.17629
+173,174,Sus cebifrons (Visayan Warty Pig),2017-10-23,"Malinao, Aklan",Brgy. Aparicio,9,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.64191,122.304143
+174,175,Aceros waldeni (Visayan Writhed Hornbill),2017-10-10,"Lambunao, Iloilo",Brgy. Cabatangan,9,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.084115,122.354255
+175,176,Rusa alfredi (Visayan Spotted Deer),2017-10-16,"Lambunao, Iloilo",Brgy. Jayubo,17,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.099361,122.40261
+176,177,Sus cebifrons (Visayan Warty Pig),2017-10-23,"Lambunao, Iloilo",Brgy. Cabatangan,7,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.08959,122.344375
+177,178,Raflesia speciosa (Panay Rafflesia),2017-11-06,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",18,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.803933,122.142844
+178,179,Aceros waldeni (Visayan Writhed Hornbill),2017-11-20,"Sibalom, Antique",Brgy. Imparayan,10,Seen,Hunting,Seen at BMS site,Bantay Gubat,10.78731,122.104683
+179,180,Aceros waldeni (Visayan Writhed Hornbill),2017-11-07,"Madalag, Aklan",Brgy. Maria Cristina,11,Heard & Seen,Hunting,Seen at the tree tops,Cenro Staff,11.507215,122.202174
+180,181,Rusa alfredi (Visayan Spotted Deer),2017-11-13,"Ibajay, Aklan",Brgy. Capataga,33,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.805385,122.177128
+181,182,Sus cebifrons (Visayan Warty Pig),2017-11-20,"Malinao, Aklan",Brgy. Aparicio,8,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.641027,122.307102
+182,183,Aceros waldeni (Visayan Writhed Hornbill),2017-11-07,"Lambunao, Iloilo",Brgy. Jayubo,8,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.100543,122.40012
+183,184,Rusa alfredi (Visayan Spotted Deer),2017-11-13,"Lambunao, Iloilo",Brgy. Cabatangan,23,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.089843,122.342915
+184,185,Sus cebifrons (Visayan Warty Pig),2017-11-20,"Lambunao, Iloilo",Brgy. Jayubo,8,Heard & Seen,Loss of Habitat,seen at the area of cabatangan,Bantay Gubat,11.095486,122.399518
+185,186,Raflesia speciosa (Panay Rafflesia),2017-12-04,"Sibalom, Antique",Brgy. Imparayan,19,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.793294,122.11009
+186,187,Aceros waldeni (Visayan Writhed Hornbill),2017-12-18,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",7,Seen,Hunting,Seen at the tree tops,Bantay Gubat,10.803704,122.143033
+187,188,Aceros waldeni (Visayan Writhed Hornbill),2017-12-06,"Madalag, Aklan",Brgy. Maria Cristina,7,Heard & Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,11.508824,122.194278
+188,189,Rusa alfredi (Visayan Spotted Deer),2017-12-11,"Ibajay, Aklan",Brgy. Capataga,30,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.804502,122.177192
+189,190,Sus cebifrons (Visayan Warty Pig),2017-12-18,"Malinao, Aklan",Brgy. Aparicio,6,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.640227,122.30663
+190,191,Aceros waldeni (Visayan Writhed Hornbill),2017-12-06,"Lambunao, Iloilo",Brgy. Cabatangan,7,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.089337,122.341198
+191,192,Rusa alfredi (Visayan Spotted Deer),2017-12-11,"Lambunao, Iloilo",Brgy. Jayubo,17,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.106942,122.402695
+192,193,Sus cebifrons (Visayan Warty Pig),2017-12-18,"Lambunao, Iloilo",Brgy. Cabatangan,8,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.091781,122.343086
+193,194,Raflesia speciosa (Panay Rafflesia),2018-01-08,"Sibalom, Antique",Brgy. Imparayan,28,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.787314,122.10468
+194,195,Aceros waldeni (Visayan Writhed Hornbill),2018-01-22,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",11,Seen,Loss of Habitat,Seen at the tree tops,IP leaders,10.803071,122.143549
+195,196,Aceros waldeni (Visayan Writhed Hornbill),2018-01-09,"Madalag, Aklan",Brgy. Maria Cristina,12,Heard & Seen,Hunting,Seen at the tree tops,Cenro Staff,11.525381,122.202861
+196,197,Rusa alfredi (Visayan Spotted Deer),2018-01-15,"Ibajay, Aklan",Brgy. Capataga,30,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.803914,122.175775
+197,198,Sus cebifrons (Visayan Warty Pig),2018-01-22,"Malinao, Aklan",Brgy. Aparicio,15,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.644343,122.305899
+198,200,Aceros waldeni (Visayan Writhed Hornbill),2018-01-09,"Lambunao, Iloilo",Brgy. Jayubo,11,Heard & Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,11.059963,122.377617
+199,201,Rusa alfredi (Visayan Spotted Deer),2018-01-15,"Lambunao, Iloilo",Brgy. Cabatangan,17,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.089168,122.358374
+200,202,Sus cebifrons (Visayan Warty Pig),2018-01-22,"Lambunao, Iloilo",Brgy. Jayubo,14,Heard & Seen,Loss of Habitat,Seen in the area of Jayubo,Bantay Gubat,11.101634,122.409652
+201,203,Raflesia speciosa (Panay Rafflesia),2018-02-05,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",17,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.80307,122.14355
+202,204,Aceros waldeni (Visayan Writhed Hornbill),2018-02-19,"Sibalom, Antique",Brgy. Imparayan,12,Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,10.794475,122.111121
+203,205,Aceros waldeni (Visayan Writhed Hornbill),2018-02-06,"Madalag, Aklan",Brgy. Maria Cristina,15,Heard & Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,11.51798,122.199084
+204,206,Rusa alfredi (Visayan Spotted Deer),2018-02-12,"Ibajay, Aklan",Brgy. Capataga,14,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.80341,122.174787
+205,207,Sus cebifrons (Visayan Warty Pig),2018-02-19,"Malinao, Aklan",Brgy. Aparicio,13,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.644361,122.305964
+206,208,Aceros waldeni (Visayan Writhed Hornbill),2018-02-06,"Lambunao, Iloilo",Brgy. Cabatangan,12,Heard & Seen,Hunting,Seen at the tree tops,Cenro Staff,11.087315,122.35915
+207,209,Rusa alfredi (Visayan Spotted Deer),2018-02-12,"Lambunao, Iloilo",Brgy. Jayubo,17,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.100544,122.405824
+208,210,Sus cebifrons (Visayan Warty Pig),2018-02-19,"Lambunao, Iloilo",Brgy. Cabatangan,13,Heard & Seen,Loss of Habitat,seen at the area of cabatangan,Bantay Gubat,11.086392,122.358375
+209,211,Raflesia speciosa (Panay Rafflesia),2018-03-05,"Sibalom, Antique",Brgy. Imparayan,18,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.790513,122.104077
+210,212,Aceros waldeni (Visayan Writhed Hornbill),2018-03-19,"Sibalom, Antique",Brgy. Imparayan,12,Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,10.79144,122.107004
+211,213,Aceros waldeni (Visayan Writhed Hornbill),2018-03-06,"Madalag, Aklan",Brgy. Maria Cristina,10,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.530427,122.210071
+212,214,Rusa alfredi (Visayan Spotted Deer),2018-03-12,"Ibajay, Aklan",Brgy. Capataga,15,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.803872,122.172683
+213,215,Sus cebifrons (Visayan Warty Pig),2018-03-19,"Malinao, Aklan",Brgy. Aparicio,12,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.642875,122.304397
+214,216,Aceros waldeni (Visayan Writhed Hornbill),2018-03-06,"Lambunao, Iloilo",Brgy. Jayubo,12,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.102223,122.407333
+215,217,Rusa alfredi (Visayan Spotted Deer),2018-03-12,"Lambunao, Iloilo",Brgy. Cabatangan,14,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.088747,122.356487
+216,218,Sus cebifrons (Visayan Warty Pig),2018-03-19,"Lambunao, Iloilo",Brgy. Jayubo,11,Heard & Seen,Loss of Habitat,seen at the area of jayubo,Bantay Gubat,11.103571,122.405786
+217,219,Raflesia speciosa (Panay Rafflesia),2018-04-02,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",17,Seen,Loss of Habitat,Seen at BMS site,Cenro Staff,10.803932,122.142845
+218,220,Aceros waldeni (Visayan Writhed Hornbill),2018-04-16,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",13,Seen,Hunting,Seen at BMS site,Bantay Gubat,10.803702,122.143032
+219,221,Aceros waldeni (Visayan Writhed Hornbill),2018-04-03,"Madalag, Aklan",Brgy. Maria Cristina,10,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.514616,122.213131
+220,222,Rusa alfredi (Visayan Spotted Deer),2018-04-09,"Ibajay, Aklan",Brgy. Capataga,24,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.803872,122.171824
+221,223,Sus cebifrons (Visayan Warty Pig),2018-04-16,"Malinao, Aklan",Brgy. Aparicio,10,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.642245,122.304913
+222,224,Aceros waldeni (Visayan Writhed Hornbill),2018-04-03,"Lambunao, Iloilo",Brgy. Cabatangan,12,Heard & Seen,Hunting,Seen at the tree tops,Cenro Staff,11.086726,122.356485
+223,225,Rusa alfredi (Visayan Spotted Deer),2018-04-09,"Lambunao, Iloilo",Brgy. Jayubo,23,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.103909,122.404758
+224,226,Sus cebifrons (Visayan Warty Pig),2018-04-16,"Lambunao, Iloilo",Brgy. Cabatangan,8,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.089252,122.35434
+225,227,Raflesia speciosa (Panay Rafflesia),2018-05-07,"Sibalom, Antique",Brgy. Imparayan,27,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.793299,122.11007
+226,228,Aceros waldeni (Visayan Writhed Hornbill),2018-05-21,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",11,Seen,Hunting,Seen at BMS site,Cenro Staff,10.803073,122.143546
+227,229,Aceros waldeni (Visayan Writhed Hornbill),2018-05-08,"Madalag, Aklan",Brgy. Maria Cristina,10,Heard & Seen,Hunting,Seen at the tree tops,Cenro Staff,11.502505,122.21831
+228,230,Rusa alfredi (Visayan Spotted Deer),2018-05-14,"Ibajay, Aklan",Brgy. Capataga,22,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.803683,122.170901
+229,231,Sus cebifrons (Visayan Warty Pig),2018-05-21,"Malinao, Aklan",Brgy. Aparicio,9,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.641614,122.304311
+230,232,Aceros waldeni (Visayan Writhed Hornbill),2018-05-08,"Lambunao, Iloilo",Brgy. Jayubo,13,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.103824,122.405357
+231,233,Rusa alfredi (Visayan Spotted Deer),2018-05-14,"Lambunao, Iloilo",Brgy. Cabatangan,23,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.091021,122.355714
+232,234,Sus cebifrons (Visayan Warty Pig),2018-05-21,"Lambunao, Iloilo",Brgy. Jayubo,7,Heard & Seen,Loss of Habitat,seen at the area of cabatangan,Bantay Gubat,11.103487,122.403897
+233,235,Raflesia speciosa (Panay Rafflesia),2018-06-04,"Sibalom, Antique",Brgy. Imparayan,19,Seen,Loss of Habitat,Seen at BMS site,IP leaders,10.787315,122.104684
+234,236,Aceros waldeni (Visayan Writhed Hornbill),2018-06-18,"Sibalom, Antique",Brgy. Imparayan,15,Seen,Hunting,Seen at the tree tops,Bantay Gubat,10.794474,122.111126
+235,237,Aceros waldeni (Visayan Writhed Hornbill),2018-06-05,"Madalag, Aklan",Brgy. Maria Cristina,14,Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.497122,122.21831
+236,238,Rusa alfredi (Visayan Spotted Deer),2018-06-11,"Ibajay, Aklan",Brgy. Capataga,21,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.803536,122.169484
+237,239,Sus cebifrons (Visayan Warty Pig),2018-06-18,"Malinao, Aklan",Brgy. Aparicio,7,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.642795,122.30414
+238,240,Aceros waldeni (Visayan Writhed Hornbill),2018-06-05,"Lambunao, Iloilo",Brgy. Cabatangan,16,Heard & Seen,Hunting,Seen at the tree tops,Cenro Staff,11.091442,122.353911
+239,241,Rusa alfredi (Visayan Spotted Deer),2018-06-11,"Lambunao, Iloilo",Brgy. Jayubo,24,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.103828,122.402694
+240,242,Sus cebifrons (Visayan Warty Pig),2018-06-18,"Lambunao, Iloilo",Brgy. Cabatangan,6,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.089592,122.354167
+241,243,Raflesia speciosa (Panay Rafflesia),2018-07-02,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",28,Seen,Loss of Habitat,Seen at BMS site,Cenro Staff,10.803934,122.142846
+242,244,Aceros waldeni (Visayan Writhed Hornbill),2018-07-16,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",17,Seen,Hunting,Seen at BMS site,IP leaders,10.803976,122.143204
+243,245,Aceros waldeni (Visayan Writhed Hornbill),2018-07-23,"Madalag, Aklan",Brgy. Maria Cristina,19,Heard & Seen,Hunting,Seen at the tree tops,Cenro Staff,11.485347,122.221744
+244,246,Rusa alfredi (Visayan Spotted Deer),2018-07-09,"Ibajay, Aklan",Brgy. Capataga,22,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.802381,122.1703
+245,247,Sus cebifrons (Visayan Warty Pig),2018-07-16,"Malinao, Aklan",Brgy. Aparicio,8,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.641656,122.304011
+246,248,Aceros waldeni (Visayan Writhed Hornbill),2018-07-03,"Lambunao, Iloilo",Brgy. Jayubo,22,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.10374,122.401153
+247,249,Rusa alfredi (Visayan Spotted Deer),2018-07-09,"Lambunao, Iloilo",Brgy. Cabatangan,20,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.089421,122.353224
+248,250,Sus cebifrons (Visayan Warty Pig),2018-07-16,"Lambunao, Iloilo",Brgy. Jayubo,7,Heard & Seen,Loss of Habitat,seen at the area of cabatangan,Bantay Gubat,11.101802,122.401665
+249,251,Raflesia speciosa (Panay Rafflesia),2018-08-06,"Sibalom, Antique",Brgy. Imparayan,27,Seen,Loss of Habitat,Seen at BMS site,IP leaders,10.790512,122.104076
+250,252,Aceros waldeni (Visayan Writhed Hornbill),2018-08-20,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",17,Seen,Hunting,Seen at the tree tops,Cenro Staff,10.803262,122.144556
+251,253,Aceros waldeni (Visayan Writhed Hornbill),2018-08-07,"Madalag, Aklan",Brgy. Maria Cristina,19,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.478954,122.212817
+252,254,Rusa alfredi (Visayan Spotted Deer),2018-08-13,"Ibajay, Aklan",Brgy. Capataga,22,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.802549,122.175346
+253,255,Sus cebifrons (Visayan Warty Pig),2018-08-20,"Malinao, Aklan",Brgy. Aparicio,10,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.642796,122.305255
+254,256,Aceros waldeni (Visayan Writhed Hornbill),2018-08-07,"Lambunao, Iloilo",Brgy. Cabatangan,22,Heard & Seen,Hunting,Seen at the tree tops,Cenro Staff,11.086393,122.354426
+255,257,Rusa alfredi (Visayan Spotted Deer),2018-08-13,"Lambunao, Iloilo",Brgy. Jayubo,25,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.100546,122.402866
+256,258,Sus cebifrons (Visayan Warty Pig),2018-08-20,"Lambunao, Iloilo",Brgy. Cabatangan,8,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.085714,122.354856
+257,259,Raflesia speciosa (Panay Rafflesia),2018-09-03,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",23,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.803938,122.142846
+258,260,Aceros waldeni (Visayan Writhed Hornbill),2018-09-17,"Sibalom, Antique",Brgy. Imparayan,23,Heard & Seen,Hunting,Seen at the tree tops,Bantay Gubat,10.791444,122.107005
+259,261,Aceros waldeni (Visayan Writhed Hornbill),2018-09-04,"Madalag, Aklan",Brgy. Maria Cristina,22,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.483328,122.201831
+260,262,Rusa alfredi (Visayan Spotted Deer),2018-09-10,"Ibajay, Aklan",Brgy. Capataga,22,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.802486,122.173735
+261,263,Sus cebifrons (Visayan Warty Pig),2018-09-17,"Malinao, Aklan",Brgy. Aparicio,9,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.642962,122.304267
+262,264,Aceros waldeni (Visayan Writhed Hornbill),2018-09-04,"Lambunao, Iloilo",Brgy. Jayubo,23,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.100205,122.403815
+263,265,Rusa alfredi (Visayan Spotted Deer),2018-09-10,"Lambunao, Iloilo",Brgy. Cabatangan,26,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.084536,122.354941
+264,266,Sus cebifrons (Visayan Warty Pig),2018-09-17,"Lambunao, Iloilo",Brgy. Jayubo,16,Heard & Seen,Loss of Habitat,seen at the area of cabatangan,Bantay Gubat,11.099781,122.401154
+265,267,Raflesia speciosa (Panay Rafflesia),2018-10-01,"Sibalom, Antique",Brgy. Imparayan,30,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.793293,122.110008
+266,268,Aceros waldeni (Visayan Writhed Hornbill),2018-10-15,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",13,Heard & Seen,Hunting,Seen at BMS site,Cenro Staff,10.803473,122.142324
+267,269,Aceros waldeni (Visayan Writhed Hornbill),2018-10-02,"Madalag, Aklan",Brgy. Maria Cristina,8,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.478618,122.211787
+268,270,Rusa alfredi (Visayan Spotted Deer),2018-10-08,"Ibajay, Aklan",Brgy. Capataga,22,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.802423,122.173284
+269,271,Sus cebifrons (Visayan Warty Pig),2018-10-15,"Malinao, Aklan",Brgy. Aparicio,15,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.641917,122.304144
+270,272,Aceros waldeni (Visayan Writhed Hornbill),2018-10-02,"Lambunao, Iloilo",Brgy. Cabatangan,11,Heard & Seen,Hunting,Seen at the tree tops,Cenro Staff,11.084115,122.354257
+271,273,Rusa alfredi (Visayan Spotted Deer),2018-10-08,"Lambunao, Iloilo",Brgy. Jayubo,23,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.09936,122.402618
+272,274,Sus cebifrons (Visayan Warty Pig),2018-10-15,"Lambunao, Iloilo",Brgy. Cabatangan,16,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.089593,122.344374
+273,275,Raflesia speciosa (Panay Rafflesia),2018-11-05,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",22,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.803938,122.142441
+274,276,Aceros waldeni (Visayan Writhed Hornbill),2018-11-19,"Sibalom, Antique",Brgy. Imparayan,10,Seen,Hunting,Seen at the tree tops,Bantay Gubat,10.787317,122.104685
+275,277,Aceros waldeni (Visayan Writhed Hornbill),2018-11-06,"Madalag, Aklan",Brgy. Maria Cristina,9,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.478954,122.201831
+276,278,Rusa alfredi (Visayan Spotted Deer),2018-11-12,"Ibajay, Aklan",Brgy. Capataga,22,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.803452,122.171481
+277,279,Sus cebifrons (Visayan Warty Pig),2018-11-19,"Malinao, Aklan",Brgy. Aparicio,13,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.641026,122.307103
+278,280,Aceros waldeni (Visayan Writhed Hornbill),2018-11-06,"Lambunao, Iloilo",Brgy. Jayubo,8,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.100546,122.400122
+279,281,Rusa alfredi (Visayan Spotted Deer),2018-11-12,"Lambunao, Iloilo",Brgy. Cabatangan,30,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.089845,122.342917
+280,282,Sus cebifrons (Visayan Warty Pig),2018-11-19,"Lambunao, Iloilo",Brgy. Jayubo,8,Heard & Seen,Loss of Habitat,seen at the area of cabatangan,Bantay Gubat,11.095487,122.399517
+281,283,Raflesia speciosa (Panay Rafflesia),2018-12-03,"Sibalom, Antique",Brgy. Imparayan,21,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.793299,122.110009
+282,284,Aceros waldeni (Visayan Writhed Hornbill),2018-12-17,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",10,Seen,Hunting,Seen at BMS site,Bantay Gubat,10.803705,122.143036
+283,285,Aceros waldeni (Visayan Writhed Hornbill),2018-12-04,"Madalag, Aklan",Brgy. Maria Cristina,11,Heard & Seen,Hunting,Seen at the tree tops,Cenro Staff,11.481309,122.191531
+284,286,Rusa alfredi (Visayan Spotted Deer),2018-12-10,"Ibajay, Aklan",Brgy. Capataga,22,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.807296,122.172384
+285,287,Sus cebifrons (Visayan Warty Pig),2018-12-17,"Malinao, Aklan",Brgy. Aparicio,10,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.640229,122.306631
+286,288,Aceros waldeni (Visayan Writhed Hornbill),2018-12-04,"Lambunao, Iloilo",Brgy. Cabatangan,10,Heard & Seen,Hunting,Seen at the tree tops,Cenro Staff,11.089336,122.341196
+287,289,Rusa alfredi (Visayan Spotted Deer),2018-12-10,"Lambunao, Iloilo",Brgy. Jayubo,30,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.106943,122.402697
+288,290,Sus cebifrons (Visayan Warty Pig),2018-12-17,"Lambunao, Iloilo",Brgy. Cabatangan,8,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.091782,122.343085
+289,291,Raflesia speciosa (Panay Rafflesia),2019-01-07,"Sibalom, Antique",Brgy. Imparayan,22,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.787313,122.104686
+290,292,Aceros waldeni (Visayan Writhed Hornbill),2019-01-21,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",10,Seen,Hunting,Seen at BMS site,IP leaders,10.802553,122.143545
+291,293,Aceros waldeni (Visayan Writhed Hornbill),2019-01-08,"Madalag, Aklan",Brgy. Maria Cristina,9,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.487702,122.205264
+292,294,Rusa alfredi (Visayan Spotted Deer),2019-01-14,"Ibajay, Aklan",Brgy. Capataga,12,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.809375,122.172706
+293,295,Sus cebifrons (Visayan Warty Pig),2019-11-14,"Malinao, Aklan",Brgy. Aparicio,15,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.644344,122.305897
+294,296,Aceros waldeni (Visayan Writhed Hornbill),2019-01-08,"Lambunao, Iloilo",Brgy. Jayubo,12,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.100156,122.419853
+295,297,Rusa alfredi (Visayan Spotted Deer),2019-01-15,"Lambunao, Iloilo",Brgy. Cabatangan,15,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.089167,122.358376
+296,298,Sus cebifrons (Visayan Warty Pig),2019-01-15,"Lambunao, Iloilo",Brgy. Jayubo,14,Heard & Seen,Loss of Habitat,Seen in the area of Jayubo,Bantay Gubat,11.101637,122.409655
+297,299,Raflesia speciosa (Panay Rafflesia),2019-02-04,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",22,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.803074,122.143547
+298,300,Aceros waldeni (Visayan Writhed Hornbill),2019-02-18,"Sibalom, Antique",Brgy. Imparayan,13,Seen,Hunting,Seen at BMS site,Cenro Staff,10.794473,122.111127
+299,301,Aceros waldeni (Visayan Writhed Hornbill),2019-02-06,"Madalag, Aklan",Brgy. Maria Cristina,11,Heard & Seen,Hunting,Seen at the tree tops,Cenro Staff,11.487345,122.213504
+300,302,Rusa alfredi (Visayan Spotted Deer),2019-02-11,"Ibajay, Aklan",Brgy. Capataga,22,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.805763,122.172492
+301,303,Sus cebifrons (Visayan Warty Pig),2019-02-19,"Malinao, Aklan",Brgy. Aparicio,15,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.644365,122.305966
+302,304,Aceros waldeni (Visayan Writhed Hornbill),2019-02-07,"Lambunao, Iloilo",Brgy. Cabatangan,12,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.087317,122.359153
+303,305,Rusa alfredi (Visayan Spotted Deer),2019-02-12,"Lambunao, Iloilo",Brgy. Jayubo,20,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.100547,122.405827
+304,306,Sus cebifrons (Visayan Warty Pig),2019-02-20,"Lambunao, Iloilo",Brgy. Cabatangan,13,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.086394,122.358372
+305,307,Raflesia speciosa (Panay Rafflesia),2019-03-04,"Sibalom, Antique",Brgy. Imparayan,21,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.790414,122.104075
+306,308,Aceros waldeni (Visayan Writhed Hornbill),2019-03-18,"Sibalom, Antique",Brgy. Imparayan,13,Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,10.791445,122.107009
+307,309,Aceros waldeni (Visayan Writhed Hornbill),2019-03-05,"Madalag, Aklan",Brgy. Maria Cristina,11,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.481309,122.22449
+308,310,Rusa alfredi (Visayan Spotted Deer),2019-03-11,"Ibajay, Aklan",Brgy. Capataga,13,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.80467,122.173007
+309,311,Sus cebifrons (Visayan Warty Pig),2019-03-18,"Malinao, Aklan",Brgy. Aparicio,13,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.642878,122.304396
+310,312,Aceros waldeni (Visayan Writhed Hornbill),2019-03-06,"Lambunao, Iloilo",Brgy. Jayubo,13,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.102226,122.407332
+311,313,Rusa alfredi (Visayan Spotted Deer),2019-03-12,"Lambunao, Iloilo",Brgy. Cabatangan,20,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.088746,122.356484
+312,314,Sus cebifrons (Visayan Warty Pig),2019-03-19,"Lambunao, Iloilo",Brgy. Jayubo,11,Heard & Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,11.103574,122.405785
+313,315,Raflesia speciosa (Panay Rafflesia),2019-04-01,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",21,Seen,Loss of Habitat,Seen at BMS site,Cenro Staff,10.803931,122.142845
+314,316,Aceros waldeni (Visayan Writhed Hornbill),2019-04-15,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",12,Seen,Hunting,Seen at BMS site,Bantay Gubat,10.809703,122.143034
+315,317,Aceros waldeni (Visayan Writhed Hornbill),2019-04-09,"Madalag, Aklan",Brgy. Maria Cristina,10,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.482655,122.213161
+316,318,Rusa alfredi (Visayan Spotted Deer),2019-04-15,"Ibajay, Aklan",Brgy. Capataga,14,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.810625,122.1701
+317,319,Sus cebifrons (Visayan Warty Pig),2019-04-22,"Malinao, Aklan",Brgy. Aparicio,8,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.642244,122.304912
+318,320,Aceros waldeni (Visayan Writhed Hornbill),2019-04-10,"Lambunao, Iloilo",Brgy. Cabatangan,14,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.086725,122.35649
+319,321,Rusa alfredi (Visayan Spotted Deer),2019-04-16,"Lambunao, Iloilo",Brgy. Jayubo,20,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.058278,122.351863
+320,322,Sus cebifrons (Visayan Warty Pig),2019-04-23,"Lambunao, Iloilo",Brgy. Cabatangan,10,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.089251,122.354343
+321,323,Raflesia speciosa (Panay Rafflesia),2019-05-06,"Sibalom, Antique",Brgy. Imparayan,21,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.793292,122.110001
+322,324,Aceros waldeni (Visayan Writhed Hornbill),2019-05-20,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",13,Seen,Hunting,Seen at the tree tops,Cenro Staff,10.803075,122.143544
+323,325,Aceros waldeni (Visayan Writhed Hornbill),2019-05-07,"Madalag, Aklan",Brgy. Maria Cristina,10,Heard & Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,11.482655,122.213161
+324,326,Rusa alfredi (Visayan Spotted Deer),2019-05-13,"Ibajay, Aklan",Brgy. Capataga,17,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.809075,122.170232
+325,327,Sus cebifrons (Visayan Warty Pig),2019-05-22,"Malinao, Aklan",Brgy. Aparicio,6,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.641617,122.304314
+326,328,Aceros waldeni (Visayan Writhed Hornbill),2019-05-08,"Lambunao, Iloilo",Brgy. Jayubo,11,Heard & Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,11.103829,122.405356
+327,329,Rusa alfredi (Visayan Spotted Deer),2019-05-14,"Lambunao, Iloilo",Brgy. Cabatangan,19,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.091024,122.355717
+328,330,Sus cebifrons (Visayan Warty Pig),2019-05-23,"Lambunao, Iloilo",Brgy. Jayubo,7,Heard & Seen,Loss of Habitat,seen at the area of cabatangan,Bantay Gubat,11.103486,122.403896
+329,331,Raflesia speciosa (Panay Rafflesia),2019-06-03,"Sibalom, Antique",Brgy. Imparayan,25,Seen,Loss of Habitat,Seen at BMS site,IP leaders,10.787315,122.104686
+330,332,Aceros waldeni (Visayan Writhed Hornbill),2019-06-17,"Sibalom, Antique",Brgy. Imparayan,15,Seen,Hunting,Seen at the tree tops,Bantay Gubat,10.794472,122.11112
+331,333,Aceros waldeni (Visayan Writhed Hornbill),2019-06-04,"Madalag, Aklan",Brgy. Maria Cristina,16,Seen,Hunting,Seen at the forest edges,Cenro Staff,11.485347,122.205607
+332,334,Rusa alfredi (Visayan Spotted Deer),2019-06-10,"Ibajay, Aklan",Brgy. Capataga,15,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.81617,122.173492
+333,335,Sus cebifrons (Visayan Warty Pig),2019-06-22,"Malinao, Aklan",Brgy. Aparicio,5,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.642797,122.304145
+334,336,Aceros waldeni (Visayan Writhed Hornbill),2019-06-05,"Lambunao, Iloilo",Brgy. Cabatangan,14,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.091445,122.353913
+335,337,Rusa alfredi (Visayan Spotted Deer),2019-06-11,"Lambunao, Iloilo",Brgy. Jayubo,18,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.103824,122.402696
+336,338,Sus cebifrons (Visayan Warty Pig),2019-06-23,"Lambunao, Iloilo",Brgy. Cabatangan,8,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.089594,122.354166
+337,339,Raflesia speciosa (Panay Rafflesia),2019-07-01,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",28,Seen,Loss of Habitat,Seen at BMS site,Cenro Staff,10.803932,122.142844
+338,340,Aceros waldeni (Visayan Writhed Hornbill),2019-07-15,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",24,Seen,Hunting,Seen at BMS site,IP leaders,10.803979,122.143203
+339,341,Aceros waldeni (Visayan Writhed Hornbill),2019-07-09,"Madalag, Aklan",Brgy. Maria Cristina,22,Heard & Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,11.486356,122.214877
+340,342,Rusa alfredi (Visayan Spotted Deer),2019-07-16,"Ibajay, Aklan",Brgy. Capataga,14,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.81575,122.174481
+341,343,Sus cebifrons (Visayan Warty Pig),2019-07-22,"Malinao, Aklan",Brgy. Aparicio,5,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.641658,122.304014
+342,344,Aceros waldeni (Visayan Writhed Hornbill),2019-07-10,"Lambunao, Iloilo",Brgy. Jayubo,18,Heard & Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,11.103743,122.401155
+343,345,Rusa alfredi (Visayan Spotted Deer),2019-07-17,"Lambunao, Iloilo",Brgy. Cabatangan,16,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.089424,122.353227
+344,346,Sus cebifrons (Visayan Warty Pig),2019-07-23,"Lambunao, Iloilo",Brgy. Jayubo,6,Heard & Seen,Loss of Habitat,seen at the area of cabatangan,Bantay Gubat,11.101805,122.401668
+345,347,Raflesia speciosa (Panay Rafflesia),2019-08-05,"Sibalom, Antique",Brgy. Imparayan,13,Seen,Loss of Habitat,Seen at BMS site,IP leaders,10.790515,122.104074
+346,348,Aceros waldeni (Visayan Writhed Hornbill),2019-08-19,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",20,Seen,Hunting,Seen at the tree tops,Cenro Staff,10.803263,122.144555
+347,349,Aceros waldeni (Visayan Writhed Hornbill),2019-08-06,"Madalag, Aklan",Brgy. Maria Cristina,21,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.495103,122.204577
+348,350,Rusa alfredi (Visayan Spotted Deer),2019-08-12,"Ibajay, Aklan",Brgy. Capataga,18,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.811635,122.172508
+349,351,Sus cebifrons (Visayan Warty Pig),2019-08-20,"Malinao, Aklan",Brgy. Aparicio,7,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.64279,122.305254
+350,352,Aceros waldeni (Visayan Writhed Hornbill),2019-08-07,"Lambunao, Iloilo",Brgy. Cabatangan,26,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.086395,122.354425
+351,353,Rusa alfredi (Visayan Spotted Deer),2019-08-14,"Lambunao, Iloilo",Brgy. Jayubo,16,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.100545,122.402865
+352,354,Sus cebifrons (Visayan Warty Pig),2019-08-21,"Lambunao, Iloilo",Brgy. Cabatangan,8,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.085713,122.354855
+353,355,Raflesia speciosa (Panay Rafflesia),2019-09-02,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",30,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.803931,122.142847
+354,356,Aceros waldeni (Visayan Writhed Hornbill),2019-09-16,"Sibalom, Antique",Brgy. Imparayan,26,Seen,Hunting,Seen at the tree tops,Bantay Gubat,10.791446,122.107008
+355,357,Aceros waldeni (Visayan Writhed Hornbill),2019-09-10,"Madalag, Aklan",Brgy. Maria Cristina,24,Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.48501,122.207667
+356,358,Rusa alfredi (Visayan Spotted Deer),2019-09-16,"Ibajay, Aklan",Brgy. Capataga,13,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.809945,122.17058
+357,359,Sus cebifrons (Visayan Warty Pig),2019-09-30,"Malinao, Aklan",Brgy. Aparicio,9,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.642963,122.304266
+358,360,Aceros waldeni (Visayan Writhed Hornbill),2019-09-11,"Lambunao, Iloilo",Brgy. Jayubo,22,Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,11.100206,122.403816
+359,361,Rusa alfredi (Visayan Spotted Deer),2019-09-17,"Lambunao, Iloilo",Brgy. Cabatangan,17,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.084535,122.354944
+360,362,Sus cebifrons (Visayan Warty Pig),2019-09-29,"Lambunao, Iloilo",Brgy. Jayubo,16,Heard & Seen,Loss of Habitat,seen at the area of cabatangan,Bantay Gubat,11.099783,122.401156
+361,363,Raflesia speciosa (Panay Rafflesia),2019-10-07,"Sibalom, Antique",Brgy. Imparayan,28,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.793295,122.110004
+362,364,Aceros waldeni (Visayan Writhed Hornbill),2019-10-21,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",15,Seen,Hunting,Seen at BMS site,Cenro Staff,10.803474,122.142323
+363,365,Aceros waldeni (Visayan Writhed Hornbill),2019-11-05,"Madalag, Aklan",Brgy. Maria Cristina,10,Heard & Seen,Hunting,Seen at the tree tops,Cenro Staff,11.484674,122.224834
+364,366,Rusa alfredi (Visayan Spotted Deer),2019-10-22,"Ibajay, Aklan",Brgy. Capataga,23,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.810155,122.17213
+365,367,Sus cebifrons (Visayan Warty Pig),2019-10-28,"Malinao, Aklan",Brgy. Aparicio,9,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.641913,122.304146
+366,368,Aceros waldeni (Visayan Writhed Hornbill),2019-10-16,"Lambunao, Iloilo",Brgy. Cabatangan,11,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.084117,122.354254
+367,369,Rusa alfredi (Visayan Spotted Deer),2019-10-23,"Lambunao, Iloilo",Brgy. Jayubo,25,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.099363,122.402611
+368,370,Sus cebifrons (Visayan Warty Pig),2019-10-29,"Lambunao, Iloilo",Brgy. Cabatangan,10,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.089595,122.344377
+369,371,Raflesia speciosa (Panay Rafflesia),2019-11-04,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",14,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.803935,122.142843
+370,372,Aceros waldeni (Visayan Writhed Hornbill),2019-11-18,"Sibalom, Antique",Brgy. Imparayan,9,Heard & Seen,Hunting,Seen at the tree tops,Bantay Gubat,10.787314,122.104685
+371,373,Aceros waldeni (Visayan Writhed Hornbill),2019-11-12,"Madalag, Aklan",Brgy. Maria Cristina,8,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.485683,122.203891
+372,374,Rusa alfredi (Visayan Spotted Deer),2019-11-19,"Ibajay, Aklan",Brgy. Capataga,22,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.81009,122.171053
+373,375,Sus cebifrons (Visayan Warty Pig),2019-11-25,"Malinao, Aklan",Brgy. Aparicio,7,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.641025,122.307104
+374,376,Aceros waldeni (Visayan Writhed Hornbill),2019-11-13,"Lambunao, Iloilo",Brgy. Jayubo,9,Heard & Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,11.100547,122.400123
+375,377,Rusa alfredi (Visayan Spotted Deer),2019-11-20,"Lambunao, Iloilo",Brgy. Cabatangan,26,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.089846,122.342918
+376,378,Sus cebifrons (Visayan Warty Pig),2019-11-25,"Lambunao, Iloilo",Brgy. Jayubo,8,Heard & Seen,Loss of Habitat,seen at the area of cabatangan,Bantay Gubat,11.095488,122.399516
+377,379,Raflesia speciosa (Panay Rafflesia),2019-12-02,"Sibalom, Antique",Brgy. Imparayan,27,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.793298,122.11001
+378,380,Aceros waldeni (Visayan Writhed Hornbill),2019-12-16,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",8,Seen,Hunting,Seen at BMS site,Bantay Gubat,10.803706,122.143037
+379,381,Aceros waldeni (Visayan Writhed Hornbill),2019-12-03,"Madalag, Aklan",Brgy. Maria Cristina,9,Heard & Seen,Hunting,Seen at the tree tops,Cenro Staff,11.485347,122.194964
+380,382,Rusa alfredi (Visayan Spotted Deer),2019-12-09,"Ibajay, Aklan",Brgy. Capataga,24,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.80923,122.17359
+381,383,Sus cebifrons (Visayan Warty Pig),2019-12-17,"Malinao, Aklan",Brgy. Aparicio,5,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.640226,122.306632
+382,384,Aceros waldeni (Visayan Writhed Hornbill),2019-12-04,"Lambunao, Iloilo",Brgy. Cabatangan,8,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.089335,122.341195
+383,385,Rusa alfredi (Visayan Spotted Deer),2019-12-10,"Lambunao, Iloilo",Brgy. Jayubo,26,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.106944,122.402693
+384,386,Sus cebifrons (Visayan Warty Pig),2019-12-18,"Lambunao, Iloilo",Brgy. Cabatangan,8,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.091783,122.343088
+385,387,Raflesia speciosa (Panay Rafflesia),2020-01-06,"Sibalom, Antique",Brgy. Imparayan,22,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.787313,122.104684
+386,388,Aceros waldeni (Visayan Writhed Hornbill),2020-01-20,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",11,Seen,Hunting,Seen at BMS site,IP leaders,10.802554,122.143546
+387,389,Aceros waldeni (Visayan Writhed Hornbill),2020-01-07,"Madalag, Aklan",Brgy. Maria Cristina,12,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.485347,122.212474
+388,390,Rusa alfredi (Visayan Spotted Deer),2020-01-13,"Ibajay, Aklan",Brgy. Capataga,20,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.809419,122.174425
+389,391,Sus cebifrons (Visayan Warty Pig),2020-01-21,"Malinao, Aklan",Brgy. Aparicio,12,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.642556,122.207893
+390,392,Aceros waldeni (Visayan Writhed Hornbill),2020-01-08,"Lambunao, Iloilo",Brgy. Jayubo,13,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.100152,122.419854
+391,393,Rusa alfredi (Visayan Spotted Deer),2020-01-13,"Lambunao, Iloilo",Brgy. Cabatangan,15,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.089166,122.358371
+392,394,Sus cebifrons (Visayan Warty Pig),2020-01-21,"Lambunao, Iloilo",Brgy. Jayubo,15,Heard & Seen,Loss of Habitat,Seen in the area of Jayubo,Bantay Gubat,11.0,122.31705
+393,395,Raflesia speciosa (Panay Rafflesia),2020-02-03,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",18,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.803076,122.143543
+394,396,Aceros waldeni (Visayan Writhed Hornbill),2020-02-17,"Sibalom, Antique",Brgy. Imparayan,11,Seen,Hunting,Seen at the tree tops,Cenro Staff,10.794471,122.111222
+395,397,Aceros waldeni (Visayan Writhed Hornbill),2020-02-04,"Madalag, Aklan",Brgy. Maria Cristina,12,Heard & Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,11.479627,122.201488
+396,398,Rusa alfredi (Visayan Spotted Deer),2020-02-10,"Ibajay, Aklan",Brgy. Capataga,11,Seen,Hunting,Seen at BMS site,IP leaders,11.808035,122.17361
+397,399,Sus cebifrons (Visayan Warty Pig),2020-02-17,"Malinao, Aklan",Brgy. Aparicio,16,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.644364,122.305963
+398,400,Aceros waldeni (Visayan Writhed Hornbill),2020-02-05,"Lambunao, Iloilo",Brgy. Cabatangan,13,Heard & Seen,Hunting,Seen at the tree tops,Cenro Staff,11.087314,122.359154
+399,401,Rusa alfredi (Visayan Spotted Deer),2020-02-11,"Lambunao, Iloilo",Brgy. Jayubo,18,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.10154,122.405828
+400,402,Sus cebifrons (Visayan Warty Pig),2020-02-18,"Lambunao, Iloilo",Brgy. Cabatangan,13,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.18639,122.358478
+401,403,Raflesia speciosa (Panay Rafflesia),2020-03-02,"Sibalom, Antique",Brgy. Imparayan,27,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.791514,122.104179
+402,404,Aceros waldeni (Visayan Writhed Hornbill),2020-03-16,"Sibalom, Antique",Brgy. Imparayan,14,Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,10.791541,122.107134
+403,405,Aceros waldeni (Visayan Writhed Hornbill),2020-03-10,"Madalag, Aklan",Brgy. Maria Cristina,16,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.52774,122.222129
+404,406,Rusa alfredi (Visayan Spotted Deer),2020-03-16,"Ibajay, Aklan",Brgy. Capataga,12,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.807109,122.17393
+405,407,Sus cebifrons (Visayan Warty Pig),2020-03-23,"Malinao, Aklan",Brgy. Aparicio,11,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.642976,122.304498
+406,408,Aceros waldeni (Visayan Writhed Hornbill),2020-03-11,"Lambunao, Iloilo",Brgy. Jayubo,12,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.101224,122.407434
+407,409,Rusa alfredi (Visayan Spotted Deer),2020-03-17,"Lambunao, Iloilo",Brgy. Cabatangan,15,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.088848,122.356588
+408,410,Sus cebifrons (Visayan Warty Pig),2020-03-24,"Lambunao, Iloilo",Brgy. Jayubo,10,Heard & Seen,Loss of Habitat,Seen in the area of Jayubo,Bantay Gubat,11.103672,122.405888
+409,411,Raflesia speciosa (Panay Rafflesia),2020-04-06,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",26,Seen,Loss of Habitat,Seen at BMS site,Cenro Staff,10.804935,122.14294
+410,412,Aceros waldeni (Visayan Writhed Hornbill),2020-04-20,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",11,Seen,Hunting,Seen at the forest edges,Bantay Gubat,10.803803,122.143134
+411,413,Aceros waldeni (Visayan Writhed Hornbill),2020-04-14,"Madalag, Aklan",Brgy. Maria Cristina,12,Heard & Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,11.51664,122.224496
+412,414,Rusa alfredi (Visayan Spotted Deer),2020-04-20,"Ibajay, Aklan",Brgy. Capataga,13,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.805742,122.175045
+413,415,Sus cebifrons (Visayan Warty Pig),2020-04-27,"Malinao, Aklan",Brgy. Aparicio,7,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.642346,122.314913
+414,416,Aceros waldeni (Visayan Writhed Hornbill),2020-04-15,"Lambunao, Iloilo",Brgy. Cabatangan,12,Heard & Seen,Hunting,Seen at the tree tops,Cenro Staff,11.086727,122.356588
+415,417,Rusa alfredi (Visayan Spotted Deer),2020-04-21,"Lambunao, Iloilo",Brgy. Jayubo,17,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.104009,122.404857
+416,418,Sus cebifrons (Visayan Warty Pig),2020-04-28,"Lambunao, Iloilo",Brgy. Cabatangan,8,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.089353,122.354441
+417,419,Raflesia speciosa (Panay Rafflesia),2020-05-04,"Sibalom, Antique",Brgy. Imparayan,16,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.793396,122.111006
+418,420,Aceros waldeni (Visayan Writhed Hornbill),2020-05-18,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",13,Seen,Hunting,Seen at BMS site,Cenro Staff,10.81317,122.143649
+419,421,Aceros waldeni (Visayan Writhed Hornbill),2020-05-05,"Madalag, Aklan",Brgy. Maria Cristina,13,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.512265,122.224838
+420,422,Rusa alfredi (Visayan Spotted Deer),2020-05-11,"Ibajay, Aklan",Brgy. Capataga,11,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.806078,122.171759
+421,423,Sus cebifrons (Visayan Warty Pig),2020-05-18,"Malinao, Aklan",Brgy. Aparicio,6,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.641618,122.304315
+422,424,Aceros waldeni (Visayan Writhed Hornbill),2020-05-06,"Lambunao, Iloilo",Brgy. Jayubo,12,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.103835,122.405355
+423,425,Rusa alfredi (Visayan Spotted Deer),2020-05-12,"Lambunao, Iloilo",Brgy. Cabatangan,19,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.091032,122.355725
+424,426,Sus cebifrons (Visayan Warty Pig),2020-05-19,"Lambunao, Iloilo",Brgy. Jayubo,8,Heard & Seen,Loss of Habitat,seen at the area of cabatangan,Bantay Gubat,11.103485,122.403999
+425,427,Raflesia speciosa (Panay Rafflesia),2020-06-01,"Sibalom, Antique",Brgy. Imparayan,27,Seen,Loss of Habitat,Seen at BMS site,IP leaders,10.78731,122.104683
+426,428,Aceros waldeni (Visayan Writhed Hornbill),2020-06-15,"Sibalom, Antique",Brgy. Imparayan,15,Seen,Hunting,Seen at the tree tops,Bantay Gubat,10.794477,122.111126
+427,429,Aceros waldeni (Visayan Writhed Hornbill),2020-06-09,"Madalag, Aklan",Brgy. Maria Cristina,14,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.50823,122.22724
+428,430,Rusa alfredi (Visayan Spotted Deer),2020-06-16,"Ibajay, Aklan",Brgy. Capataga,14,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.806036,122.169763
+429,431,Sus cebifrons (Visayan Warty Pig),2020-06-22,"Malinao, Aklan",Brgy. Aparicio,9,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.642796,122.304146
+430,432,Aceros waldeni (Visayan Writhed Hornbill),2020-06-10,"Lambunao, Iloilo",Brgy. Cabatangan,15,Heard & Seen,Hunting,Seen at the tree tops,Cenro Staff,11.091446,122.353914
+431,433,Rusa alfredi (Visayan Spotted Deer),2020-06-17,"Lambunao, Iloilo",Brgy. Jayubo,23,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.103823,122.402692
+432,434,Sus cebifrons (Visayan Warty Pig),2020-06-23,"Lambunao, Iloilo",Brgy. Cabatangan,10,Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.089596,122.354165
+433,435,Raflesia speciosa (Panay Rafflesia),2020-07-06,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",23,Seen,Loss of Habitat,Seen at BMS site,Cenro Staff,10.803938,122.142847
+434,436,Aceros waldeni (Visayan Writhed Hornbill),2020-07-20,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",17,Seen,Hunting,Seen at BMS site,IP leaders,10.803975,122.143202
+435,437,Aceros waldeni (Visayan Writhed Hornbill),2020-07-07,"Madalag, Aklan",Brgy. Maria Cristina,18,Seen,Hunting,Seen at the forest edges,Cenro Staff,11.513947,122.214195
+436,438,Rusa alfredi (Visayan Spotted Deer),2020-07-13,"Ibajay, Aklan",Brgy. Capataga,11,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.808304,122.170149
+437,439,Sus cebifrons (Visayan Warty Pig),2020-07-21,"Malinao, Aklan",Brgy. Aparicio,10,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.641655,122.304015
+438,440,Aceros waldeni (Visayan Writhed Hornbill),2020-07-08,"Lambunao, Iloilo",Brgy. Jayubo,19,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.103745,122.401157
+439,441,Rusa alfredi (Visayan Spotted Deer),2020-07-14,"Lambunao, Iloilo",Brgy. Cabatangan,22,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.089425,122.353223
+440,442,Sus cebifrons (Visayan Warty Pig),2020-07-22,"Lambunao, Iloilo",Brgy. Jayubo,7,Heard & Seen,Loss of Habitat,seen at the area of cabatangan,Bantay Gubat,11.101806,122.406066
+441,443,Raflesia speciosa (Panay Rafflesia),2020-08-06,"Sibalom, Antique",Brgy. Imparayan,25,Seen,Loss of Habitat,Seen at BMS site,IP leaders,10.790511,122.104073
+442,444,Aceros waldeni (Visayan Writhed Hornbill),2020-08-20,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",24,Seen,Hunting,Seen at the tree tops,Cenro Staff,10.803264,122.144554
+443,445,Aceros waldeni (Visayan Writhed Hornbill),2020-08-04,"Madalag, Aklan",Brgy. Maria Cristina,16,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.51664,122.20664
+444,446,Rusa alfredi (Visayan Spotted Deer),2020-08-17,"Ibajay, Aklan",Brgy. Capataga,12,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.807905,122.170836
+445,447,Sus cebifrons (Visayan Warty Pig),2020-08-24,"Malinao, Aklan",Brgy. Aparicio,8,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.642795,122.305253
+446,448,Aceros waldeni (Visayan Writhed Hornbill),2020-08-05,"Lambunao, Iloilo",Brgy. Cabatangan,24,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.086396,122.354424
+447,449,Rusa alfredi (Visayan Spotted Deer),2020-08-18,"Lambunao, Iloilo",Brgy. Jayubo,20,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.100543,122.402864
+448,450,Sus cebifrons (Visayan Warty Pig),2020-08-25,"Lambunao, Iloilo",Brgy. Cabatangan,6,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.085717,122.354859
+449,451,Raflesia speciosa (Panay Rafflesia),2020-09-03,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",24,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.803937,122.14284
+450,452,Aceros waldeni (Visayan Writhed Hornbill),2020-09-17,"Sibalom, Antique",Brgy. Imparayan,25,Seen,Loss of Habitat,Seen at the forest edges,Bantay Gubat,10.791446,122.100071
+451,453,Aceros waldeni (Visayan Writhed Hornbill),2020-09-15,"Madalag, Aklan",Brgy. Maria Cristina,22,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.512937,122.2128
+452,454,Rusa alfredi (Visayan Spotted Deer),2020-09-21,"Ibajay, Aklan",Brgy. Capataga,10,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.805742,122.173864
+453,455,Sus cebifrons (Visayan Warty Pig),2020-09-28,"Malinao, Aklan",Brgy. Aparicio,5,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.642965,122.304265
+454,456,Aceros waldeni (Visayan Writhed Hornbill),2020-09-16,"Lambunao, Iloilo",Brgy. Jayubo,23,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.100203,122.403812
+455,457,Rusa alfredi (Visayan Spotted Deer),2020-09-21,"Lambunao, Iloilo",Brgy. Cabatangan,22,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.084534,122.354945
+456,458,Sus cebifrons (Visayan Warty Pig),2020-09-28,"Lambunao, Iloilo",Brgy. Jayubo,9,Heard & Seen,Loss of Habitat,seen at the area of cabatangan,Bantay Gubat,11.099784,122.401156
+457,459,Raflesia speciosa (Panay Rafflesia),2020-10-05,"Sibalom, Antique",Brgy. Imparayan,22,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.793294,122.110009
+458,460,Aceros waldeni (Visayan Writhed Hornbill),2020-10-19,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",17,Seen,Hunting,Seen at BMS site,Cenro Staff,10.80347,122.142322
+459,461,Aceros waldeni (Visayan Writhed Hornbill),2020-10-06,"Madalag, Aklan",Brgy. Maria Cristina,15,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.516975,122.20252
+460,462,Rusa alfredi (Visayan Spotted Deer),2020-10-12,"Ibajay, Aklan",Brgy. Capataga,22,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.805091,122.175238
+461,463,Sus cebifrons (Visayan Warty Pig),2020-10-20,"Malinao, Aklan",Brgy. Aparicio,7,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.641911,122.304147
+462,464,Aceros waldeni (Visayan Writhed Hornbill),2020-10-08,"Lambunao, Iloilo",Brgy. Cabatangan,13,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.084114,122.354253
+463,465,Rusa alfredi (Visayan Spotted Deer),2020-10-13,"Lambunao, Iloilo",Brgy. Jayubo,23,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.099364,122.402613
+464,466,Sus cebifrons (Visayan Warty Pig),2020-10-21,"Lambunao, Iloilo",Brgy. Cabatangan,8,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.089596,122.344373
+465,467,Raflesia speciosa (Panay Rafflesia),2020-11-09,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",24,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.803934,122.142845
+466,468,Aceros waldeni (Visayan Writhed Hornbill),2020-11-23,"Sibalom, Antique",Brgy. Imparayan,7,Seen,Hunting,Seen at the tree tops,Bantay Gubat,10.787311,122.104681
+467,469,Aceros waldeni (Visayan Writhed Hornbill),2020-11-10,"Madalag, Aklan",Brgy. Maria Cristina,8,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.520671,122.199088
+468,470,Rusa alfredi (Visayan Spotted Deer),2020-11-16,"Ibajay, Aklan",Brgy. Capataga,26,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.805006,122.17629
+469,471,Aceros waldeni (Visayan Writhed Hornbill),2020-11-24,"Malinao, Aklan",Brgy. Aparicio,9,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.641024,122.307105
+470,472,Aceros waldeni (Visayan Writhed Hornbill),2020-11-11,"Lambunao, Iloilo",Brgy. Jayubo,11,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.100544,122.400124
+471,473,Rusa alfredi (Visayan Spotted Deer),2020-11-17,"Lambunao, Iloilo",Brgy. Cabatangan,20,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.089842,122.342914
+472,474,Sus cebifrons (Visayan Warty Pig),2020-11-24,"Lambunao, Iloilo",Brgy. Jayubo,8,Heard & Seen,Loss of Habitat,seen at the area of cabatangan,Bantay Gubat,11.095485,122.399515
+473,475,Raflesia speciosa (Panay Rafflesia),2020-12-07,"Sibalom, Antique",Brgy. Imparayan,21,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.793293,122.110003
+474,476,Aceros waldeni (Visayan Writhed Hornbill),2020-12-21,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",10,Heard & Seen,Hunting,Seen at the tree tops,Bantay Gubat,10.803701,122.143031
+475,477,Aceros waldeni (Visayan Writhed Hornbill),2020-12-08,"Madalag, Aklan",Brgy. Maria Cristina,8,Heard & Seen,Hunting,Seen at the tree tops,Cenro Staff,11.513947,122.202866
+476,478,Rusa alfredi (Visayan Spotted Deer),2020-12-14,"Ibajay, Aklan",Brgy. Capataga,23,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.805385,122.177128
+477,479,Sus cebifrons (Visayan Warty Pig),2020-12-20,"Malinao, Aklan",Brgy. Aparicio,7,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.641228,122.30633
+478,480,Aceros waldeni (Visayan Writhed Hornbill),2020-12-09,"Lambunao, Iloilo",Brgy. Cabatangan,9,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.089334,122.341194
+479,481,Rusa alfredi (Visayan Spotted Deer),2020-12-15,"Lambunao, Iloilo",Brgy. Jayubo,22,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.106945,122.402691
+480,482,Sus cebifrons (Visayan Warty Pig),2020-12-21,"Lambunao, Iloilo",Brgy. Cabatangan,7,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.091784,122.343089
+481,483,Aceros waldeni (Visayan Writhed Hornbill),2021-01-08,"Madalag, Aklan",Brgy. Maria Cristina,10,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.50789,122.23308
+482,484,Rusa alfredi (Visayan Spotted Deer),2021-01-15,"Ibajay, Aklan",Brgy. Capataga,14,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.804502,122.177192
+483,485,Sus cebifrons (Visayan Warty Pig),2021-01-22,"Malinao, Aklan",Brgy. Aparicio,12,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.644346,122.305895
+484,486,Aceros waldeni (Visayan Writhed Hornbill),2021-01-09,"Lambunao, Iloilo",Brgy. Jayubo,12,Heard & Seen,Loss of Habitat,Seen flying at the tree tops,Cenro Staff,11.100151,122.419856
+485,487,Rusa alfredi (Visayan Spotted Deer),2021-01-16,"Lambunao, Iloilo",Brgy. Cabatangan,12,Heard & Seen,Hunting,seen at the area of cabatangan,IP leaders,11.089165,122.358377
+486,488,Sus cebifrons (Visayan Warty Pig),2021-01-23,"Lambunao, Iloilo",Brgy. Jayubo,15,Heard & Seen,Loss of Habitat,Seen in the area of Jayubo,Bantay Gubat,11.101632,122.409651
+487,489,Aceros waldeni (Visayan Writhed Hornbill),2021-02-06,"Madalag, Aklan",Brgy. Maria Cristina,13,Heard & Seen,Hunting,Seen at the tree tops,Cenro Staff,11.50318,122.232732
+488,490,Rusa alfredi (Visayan Spotted Deer),2021-02-12,"Ibajay, Aklan",Brgy. Capataga,14,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.803914,122.175775
+489,491,Sus cebifrons (Visayan Warty Pig),2021-02-18,"Malinao, Aklan",Brgy. Aparicio,14,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.644366,122.305967
+490,492,Aceros waldeni (Visayan Writhed Hornbill),2021-02-07,"Lambunao, Iloilo",Brgy. Cabatangan,11,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.087313,122.359155
+491,493,Rusa alfredi (Visayan Spotted Deer),2021-02-13,"Lambunao, Iloilo",Brgy. Jayubo,13,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.10054,122.405823
+492,494,Sus cebifrons (Visayan Warty Pig),2021-02-19,"Lambunao, Iloilo",Brgy. Cabatangan,13,Heard & Seen,Hunting,Seen in the area of Jayubo,Bantay Gubat,11.086396,122.358378
+493,495,Aceros waldeni (Visayan Writhed Hornbill),2021-03-11,"Madalag, Aklan",Brgy. Maria Cristina,14,Heard & Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,11.498135,122.236165
+494,496,Rusa alfredi (Visayan Spotted Deer),2021-03-17,"Ibajay, Aklan",Brgy. Capataga,13,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.80341,122.174787
+495,497,Sus cebifrons (Visayan Warty Pig),2021-03-24,"Malinao, Aklan",Brgy. Aparicio,12,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.642776,122.304398
+496,498,Aceros waldeni (Visayan Writhed Hornbill),2021-03-12,"Lambunao, Iloilo",Brgy. Jayubo,15,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.102221,122.407331
+497,499,Rusa alfredi (Visayan Spotted Deer),2021-03-18,"Lambunao, Iloilo",Brgy. Cabatangan,12,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.088745,122.356482
+498,500,Sus cebifrons (Visayan Warty Pig),2021-03-25,"Lambunao, Iloilo",Brgy. Jayubo,11,Heard & Seen,Loss of Habitat,Seen in the area of Jayubo,Bantay Gubat,11.103575,122.405784
+499,501,Aceros waldeni (Visayan Writhed Hornbill),2021-04-15,"Madalag, Aklan",Brgy. Maria Cristina,14,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.48905,122.237885
+500,502,Rusa alfredi (Visayan Spotted Deer),2021-04-21,"Ibajay, Aklan",Brgy. Capataga,13,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.803872,122.172683
+501,503,Sus cebifrons (Visayan Warty Pig),2021-04-28,"Malinao, Aklan",Brgy. Aparicio,6,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.642243,122.304911
+502,504,Aceros waldeni (Visayan Writhed Hornbill),2021-04-16,"Lambunao, Iloilo",Brgy. Cabatangan,15,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.086724,122.356487
+503,505,Rusa alfredi (Visayan Spotted Deer),2021-04-22,"Lambunao, Iloilo",Brgy. Jayubo,11,Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.103906,122.404759
+504,506,Sus cebifrons (Visayan Warty Pig),2021-04-29,"Lambunao, Iloilo",Brgy. Cabatangan,7,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.08925,122.354344
+505,507,Aceros waldeni (Visayan Writhed Hornbill),2021-05-06,"Madalag, Aklan",Brgy. Maria Cristina,13,Heard & Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,11.48737,122.22867
+506,508,Rusa alfredi (Visayan Spotted Deer),2021-05-12,"Ibajay, Aklan",Brgy. Capataga,14,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.803872,122.171824
+507,509,Sus cebifrons (Visayan Warty Pig),2021-05-19,"Malinao, Aklan",Brgy. Aparicio,10,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.641613,122.304316
+508,510,Aceros waldeni (Visayan Writhed Hornbill),2021-05-07,"Lambunao, Iloilo",Brgy. Jayubo,11,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.103822,122.404359
+509,511,Rusa alfredi (Visayan Spotted Deer),2021-05-13,"Lambunao, Iloilo",Brgy. Cabatangan,13,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.09102,122.355711
+510,512,Sus cebifrons (Visayan Warty Pig),2021-05-20,"Lambunao, Iloilo",Brgy. Jayubo,7,Heard & Seen,Loss of Habitat,seen at the area of cabatangan,Bantay Gubat,11.103484,122.403895
+511,513,Aceros waldeni (Visayan Writhed Hornbill),2021-06-10,"Madalag, Aklan",Brgy. Maria Cristina,19,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.490395,122.212476
+512,514,Rusa alfredi (Visayan Spotted Deer),2021-06-16,"Ibajay, Aklan",Brgy. Capataga,12,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.803683,122.170901
+513,515,Sus cebifrons (Visayan Warty Pig),2021-06-23,"Malinao, Aklan",Brgy. Aparicio,6,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.642797,122.304147
+514,516,Aceros waldeni (Visayan Writhed Hornbill),2021-06-11,"Lambunao, Iloilo",Brgy. Cabatangan,16,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.091441,122.353915
+515,517,Rusa alfredi (Visayan Spotted Deer),2021-06-17,"Lambunao, Iloilo",Brgy. Jayubo,11,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.103821,122.402695
+516,518,Sus cebifrons (Visayan Warty Pig),2021-06-24,"Lambunao, Iloilo",Brgy. Cabatangan,5,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.089597,122.354164
+517,519,Aceros waldeni (Visayan Writhed Hornbill),2021-07-08,"Madalag, Aklan",Brgy. Maria Cristina,19,Heard & Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,11.499145,122.202865
+518,520,Rusa alfredi (Visayan Spotted Deer),2021-07-14,"Ibajay, Aklan",Brgy. Capataga,13,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.803536,122.169484
+519,521,Sus cebifrons (Visayan Warty Pig),2021-07-21,"Malinao, Aklan",Brgy. Aparicio,6,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.641654,122.30401
+520,522,Aceros waldeni (Visayan Writhed Hornbill),2021-07-09,"Lambunao, Iloilo",Brgy. Jayubo,16,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.103746,122.401157
+521,523,Rusa alfredi (Visayan Spotted Deer),2021-07-15,"Lambunao, Iloilo",Brgy. Cabatangan,14,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.08942,122.353221
+522,524,Sus cebifrons (Visayan Warty Pig),2021-07-22,"Lambunao, Iloilo",Brgy. Jayubo,5,Heard & Seen,Loss of Habitat,seen at the area of cabatangan,Bantay Gubat,11.101801,122.401664
+523,525,Aceros waldeni (Visayan Writhed Hornbill),2021-08-05,"Madalag, Aklan",Brgy. Maria Cristina,20,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.49208,122.211792
+524,526,Rusa alfredi (Visayan Spotted Deer),2021-08-18,"Ibajay, Aklan",Brgy. Capataga,12,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.802381,122.1703
+525,527,Sus cebifrons (Visayan Warty Pig),2021-08-25,"Malinao, Aklan",Brgy. Aparicio,7,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.642794,122.305251
+526,528,Aceros waldeni (Visayan Writhed Hornbill),2021-08-06,"Lambunao, Iloilo",Brgy. Cabatangan,22,Heard & Seen,Hunting,Seen at the tree tops,Cenro Staff,11.08639,122.354423
+527,529,Rusa alfredi (Visayan Spotted Deer),2021-08-19,"Lambunao, Iloilo",Brgy. Jayubo,11,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.100547,122.402863
+528,530,Sus cebifrons (Visayan Warty Pig),2021-08-26,"Lambunao, Iloilo",Brgy. Cabatangan,8,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.085712,122.354854
+529,531,Aceros waldeni (Visayan Writhed Hornbill),2021-09-15,"Madalag, Aklan",Brgy. Maria Cristina,20,Heard & Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,11.50823,122.194284
+530,532,Rusa alfredi (Visayan Spotted Deer),2021-09-21,"Ibajay, Aklan",Brgy. Capataga,16,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.802549,122.175346
+531,533,Sus cebifrons (Visayan Warty Pig),2021-09-28,"Malinao, Aklan",Brgy. Aparicio,9,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.642964,122.304264
+532,534,Aceros waldeni (Visayan Writhed Hornbill),2021-09-21,"Ibajay, Aklan",Brgy. Capataga,19,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.802486,122.173735
+533,535,Aceros waldeni (Visayan Writhed Hornbill),2021-09-16,"Lambunao, Iloilo",Brgy. Jayubo,17,Heard & Seen,Loss of Habitat,Seen at the forest edges,Cenro Staff,11.100201,122.403811
+534,536,Rusa alfredi (Visayan Spotted Deer),2021-09-22,"Lambunao, Iloilo",Brgy. Cabatangan,13,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.084532,122.35494
+535,537,Sus cebifrons (Visayan Warty Pig),2021-09-29,"Lambunao, Iloilo",Brgy. Jayubo,5,Heard & Seen,Loss of Habitat,seen at the area of cabatangan,Bantay Gubat,11.09978,122.401154
+536,538,Aceros waldeni (Visayan Writhed Hornbill),2021-10-07,"Madalag, Aklan",Brgy. Maria Cristina,10,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.51159,122.208699
+537,539,Rusa alfredi (Visayan Spotted Deer),2021-10-13,"Ibajay, Aklan",Brgy. Capataga,26,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.802423,122.173284
+538,540,Sus cebifrons (Visayan Warty Pig),2021-10-18,"Malinao, Aklan",Brgy. Aparicio,8,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.641914,122.304144
+539,541,Aceros waldeni (Visayan Writhed Hornbill),2021-10-08,"Lambunao, Iloilo",Brgy. Cabatangan,8,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.084113,122.354252
+540,542,Rusa alfredi (Visayan Spotted Deer),2021-10-14,"Lambunao, Iloilo",Brgy. Jayubo,15,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.099365,122.402613
+541,543,Sus cebifrons (Visayan Warty Pig),2021-10-19,"Lambunao, Iloilo",Brgy. Cabatangan,9,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.089595,122.344372
+542,544,Aceros waldeni (Visayan Writhed Hornbill),2021-11-11,"Madalag, Aklan",Brgy. Maria Cristina,8,Heard & Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,11.50722,122.202179
+543,545,Rusa alfredi (Visayan Spotted Deer),2021-11-17,"Ibajay, Aklan",Brgy. Capataga,29,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.803452,122.171481
+544,546,Sus cebifrons (Visayan Warty Pig),2021-11-24,"Malinao, Aklan",Brgy. Aparicio,5,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.641023,122.307101
+545,547,Aceros waldeni (Visayan Writhed Hornbill),2021-11-12,"Lambunao, Iloilo",Brgy. Jayubo,9,Heard & Seen,Loss of Habitat,Seen at the tree tops,Cenro Staff,11.100542,122.400125
+546,548,Rusa alfredi (Visayan Spotted Deer),2021-11-18,"Lambunao, Iloilo",Brgy. Cabatangan,20,Heard & Seen,Hunting,Seen at BMS site,IP leaders,11.089841,122.342913
+547,549,Sus cebifrons (Visayan Warty Pig),2021-11-25,"Lambunao, Iloilo",Brgy. Jayubo,8,Heard & Seen,Loss of Habitat,seen at the area of cabatangan,Bantay Gubat,11.095484,122.399514
+548,550,Aceros waldeni (Visayan Writhed Hornbill),2021-12-09,"Madalag, Aklan",Brgy. Maria Cristina,8,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.50823,122.194284
+549,551,Rusa alfredi (Visayan Spotted Deer),2021-12-15,"Ibajay, Aklan",Brgy. Capataga,28,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.807296,122.172384
+550,552,Sus cebifrons (Visayan Warty Pig),2021-12-21,"Malinao, Aklan",Brgy. Aparicio,7,Heard & Seen,Hunting,Seen in the area of Aparicio,Bantay Gubat,11.640225,122.306633
+551,553,Aceros waldeni (Visayan Writhed Hornbill),2021-12-10,"Lambunao, Iloilo",Brgy. Cabatangan,9,Heard & Seen,Hunting,Seen at the forest edges,Cenro Staff,11.089333,122.341193
+552,554,Rusa alfredi (Visayan Spotted Deer),2021-12-16,"Lambunao, Iloilo",Brgy. Jayubo,22,Heard & Seen,Loss of Habitat,Seen at BMS site,IP leaders,11.105941,122.402694
+553,555,Sus cebifrons (Visayan Warty Pig),2021-12-22,"Lambunao, Iloilo",Brgy. Cabatangan,8,Heard & Seen,Hunting,seen at the area of cabatangan,Bantay Gubat,11.091785,122.343084
+554,556,Raflesia speciosa (Panay Rafflesia),2021-01-10,"Sibalom, Antique",Brgy. Imparayan,19,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.78711,122.104687
+555,557,Aceros waldeni (Visayan Writhed Hornbill),2021-01-21,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",8,Seen,Hunting,Seen at the tree tops,Bantay Gubat,10.791445,122.107006
+556,558,Raflesia speciosa (Panay Rafflesia),2021-02-04,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",20,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.793291,122.110006
+557,559,Aceros waldeni (Visayan Writhed Hornbill),2021-02-18,"Sibalom, Antique",Brgy. Imparayan,9,Seen,Hunting,Seen at the forest edges,Cenro Staff,10.803475,122.14232
+558,560,Raflesia speciosa (Panay Rafflesia),2021-03-03,"Sibalom, Antique",Brgy. Imparayan,17,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.80393,122.142844
+559,561,Aceros waldeni (Visayan Writhed Hornbill),2021-03-17,"Sibalom, Antique",Brgy. Imparayan,11,Seen,Loss of Habitat,Seen at the tree tops,Bantay Gubat,10.78738,122.104687
+560,562,Raflesia speciosa (Panay Rafflesia),2021-04-07,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",15,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.793299,122.110008
+561,563,Aceros waldeni (Visayan Writhed Hornbill),2021-04-21,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",12,Seen,Hunting,Seen at BMS site,Bantay Gubat,10.803505,122.143036
+562,564,Raflesia speciosa (Panay Rafflesia),2021-05-05,"Sibalom, Antique",Brgy. Imparayan,18,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.787316,122.104886
+563,565,Aceros waldeni (Visayan Writhed Hornbill),2021-05-19,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",13,Seen,Hunting,Seen at BMS site,IP leaders,10.802523,122.143545
+564,566,Raflesia speciosa (Panay Rafflesia),2021-06-02,"Sibalom, Antique",Brgy. Imparayan,19,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.803076,122.143548
+565,567,Aceros waldeni (Visayan Writhed Hornbill),2021-06-16,"Sibalom, Antique",Brgy. Imparayan,14,Seen,Hunting,Seen at the tree tops,Cenro Staff,10.794474,122.111127
+566,568,Raflesia speciosa (Panay Rafflesia),2021-07-08,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",17,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.790516,122.104072
+567,569,Aceros waldeni (Visayan Writhed Hornbill),2021-07-21,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",11,Seen,Hunting,Seen at the tree tops,Cenro Staff,10.791447,122.107008
+568,570,Raflesia speciosa (Panay Rafflesia),2021-08-08,"Sibalom, Antique",Brgy. Imparayan,20,Seen,Loss of Habitat,Seen at BMS site,Cenro Staff,10.803931,122.142845
+569,571,Aceros waldeni (Visayan Writhed Hornbill),2021-08-21,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",16,Seen,Hunting,Seen at the tree tops,Bantay Gubat,10.803707,122.143037
+570,572,Raflesia speciosa (Panay Rafflesia),2021-09-04,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",24,Seen,Loss of Habitat,Seen at BMS site,Bantay Gubat,10.793298,122.110005
+571,573,Aceros waldeni (Visayan Writhed Hornbill),2021-09-18,"Sibalom, Antique",Brgy. Imparayan,17,Seen,Hunting,Seen at BMS site,Cenro Staff,10.803075,122.143544
+572,574,Raflesia speciosa (Panay Rafflesia),2021-10-06,"Sibalom, Antique",Brgy. Imparayan,25,See,Loss of Habitat,Seen at BMS site,IP leaders,10.787316,122.104687
+573,575,Aceros waldeni (Visayan Writhed Hornbill),2021-10-18,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",11,Seen,Hunting,Seen at the tree tops,Bantay Gubat,10.794473,122.111124
+574,576,Raflesia speciosa (Panay Rafflesia),2021-11-08,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",12,Seen,Loss of Habitat,Seen at BMS site,Cenro Staff,10.803932,122.142444
+575,577,Aceros waldeni (Visayan Writhed Hornbill),2021-11-29,"Sibalom, Antique",Brgy. Imparayan,8,Seen,Hunting,Seen at the forest edges,IP leaders,10.803974,122.143207
+576,578,Raflesia speciosa (Panay Rafflesia),2021-12-08,"Sibalom, Antique",Brgy. Imparayan,11,Seen,Loss of Habitat,Seen at BMS site,IP leaders,10.790516,122.104078
+577,579,Aceros waldeni (Visayan Writhed Hornbill),2021-12-22,"Sibalom, Antique","Sitio Igculibao, Brgy.  Cabladan",9,Seen,Hunting,Seen at the tree tops,Bantay Gubat,10.791447,122.107009
+578,580,Sus cebifrons (Visayan Warty Pig),2020-11-24,"Malinao, Aklan",Brgy. Aparicio,8,Heard & Seen,Loss of Habitat,Seen in the area of Aparicio,Bantay Gubat,11.64102,122.307105

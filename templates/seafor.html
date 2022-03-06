@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- Basic -->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <!-- Site Metas -->
+    <title>Seasonality Forecasting</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Site Icons -->
+    <link rel="shortcut icon" href="#" type="static/image/x-icon" />
+    <link rel="apple-touch-icon" href="#" />
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="static/css/bootstrap.min.css" />
+    <!-- Pogo Slider CSS -->
+    <link rel="stylesheet" href="static/css/pogo-slider.min.css" />
+    <!-- Site CSS -->
+    <link rel="stylesheet" href="static/css/style.css" />
+    <!-- Responsive CSS -->
+    <link rel="stylesheet" href="static/css/responsive.css" />
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="static/css/custom.css" />
+
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body id="home" data-spy="scroll" data-target="#navbar-wd" data-offset="98">
+
+    <!-- Start header -->
+    <header class="top-header">
+        <nav class="navbar header-nav navbar-expand-lg">
+            <div class="container-fluid">
+                <a class="navbar-brand" href={{ url_for('Vis') }}><img src="static/images/logo.png" alt="image"></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-wd" aria-controls="navbar-wd" aria-expanded="false" aria-label="Toggle navigation">
+
+                </button>
+                <div class="collapse navbar-collapse justify-content-end" id="navbar-wd">
+                    <ol class="navbar-nav">
+                        <li><h1>Seasonality Forecasting for the Sightings </h1><li>
+                    </ol>
+                </div>
+                <div>
+
+                    <ol>
+                        <li><h2>{{g.user.username}}</h2> </li>
+                        <li><a href="{{ url_for('login') }}">Logout</a> </li>
+                    </ol>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <!-- End header -->
+
+	<!-- section -->
+    <div class="section margin-top_50">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 layout_padding_2">
+                    <div class="full">
+                        <div class="heading_main text_align_left">
+						   <h2><span>Visayan Writhed Horbill</span>   Seasonality Forecast</h2>
+                        </div>
+						<div class="full">
+						  <p>The mating season usually begin during the ber months wherein the males courts the females by building a nest. After that is the nesting season wherein the female incubates the egg while only the male finds food.</p>
+						</div>
+                        <div class="full">
+						   <a class="hvr-radial-out button-theme" href={{ url_for('SHF') }}>Generate Forecast</a>
+						</div>
+                    </div>
+                </div>
+				<div class="col-md-6">
+                    <div class="full">
+                        <img src="static/images/SHFplot.png" alt="#" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+	<!-- end section -->
+	<!-- section -->
+    <div class="section margin-top_50 silver_bg">
+        <div class="container">
+            <div class="row">
+			    <div class="col-md-6">
+                    <div class="full float-right_img">
+                        <img src="static/images/SDFplot.png" alt="#" />
+                    </div>
+                </div>
+                <div class="col-md-6 layout_padding_2">
+                    <div class="full">
+                        <div class="heading_main text_align_left">
+                            <h2><span>Visayan Spotted Deer Seasonality Forecast</span></h2>
+                        </div>
+						<div class="full">
+						  <p>The Visayan Spotted Deer are social animals and often lives in herd of 8. During mating season,some herds gather together wherein the young males challenges the older in order to get a chance to mate with the females of the herd. Defeated males are forced out of the herd. This usually happend during the thrid quarter of the year, specifically November and December.  </p>
+						</div>
+                        <div class="full">
+						   <a class="hvr-radial-out button-theme" href={{ url_for('SDF')}}>Generate Forecast</a>
+						</div>
+                    </div>
+                </div>
+			</div>
+        </div>
+    </div>
+	<!-- end section -->
+	<!-- section -->
+    <div class="section margin-top_50">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 layout_padding_2">
+                    <div class="full">
+                        <div class="heading_main text_align_left">
+						   <h2><span>Visayan Warty Pig</span> Seasonality  Forecast</h2>
+                        </div>
+						<div class="full">
+						  <p> Visayan Warty Pigs lives in groups of four to six. During mating season the males or young males of other group challenges the alpha male in order to get the chance to mate with the females. The defeated males are forced out ro killed. This usually happens during the first quarter of the year specifically January to March.</p>
+						</div>
+                        <div class="full">
+						   <a class="hvr-radial-out button-theme" href={{ url_for('SWF') }}>Generate Forecast</a>
+						</div>
+                    </div>
+                </div>
+				<div class="col-md-6">
+                    <div class="full">
+                        <img src="static/images/SWFplot.png" alt="#" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+	<!-- end section -->
+    <div class="footer_bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <p class="crp"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
+
+    <!-- ALL JS FILES -->
+    <script src="static/js/jquery.min.js"></script>
+	<script src="static/js/popper.min.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+    <!-- ALL PLUGINS -->
+    <script src="static/js/jquery.magnific-popup.min.js"></script>
+    <script src="static/js/jquery.pogo-slider.min.js"></script>
+    <script src="static/js/slider-index.js"></script>
+    <script src="static/js/smoothscroll.js"></script>
+    <script src="static/js/form-validator.min.js"></script>
+    <script src="static/js/contact-form-script.js"></script>
+    <script src="static/js/isotope.min.js"></script>
+    <script src="static/js/images-loded.min.js"></script>
+    <script src="static/js/custom.js"></script>
+
+</body>
+
+</html>
